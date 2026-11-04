@@ -5,7 +5,8 @@
 - Build: `jobq run --name toefl-release-aab -- flutter build appbundle --release`, then `./gradlew --stop` in `android/`.
 - Before every release: `bash scripts/check-release-ad-ids.sh`, `python3 tool/validate.py`, `flutter test`.
 - Signing: upload key created 4 Nov 2026: `.secrets/toefl-upload.keystore` (alias `toefl-upload`, RSA 2048, valid 10,000 days), passwords in `.secrets/toefl-upload-keystore-credentials.txt`, read by `android/key.properties`. Certificate SHA-256 `05:CA:6A:E3:64:18:B0:B3:19:1A:61:A5:25:E3:1A:20:8A:93:4C:FC:3B:22:BE:89:AB:56:27:2A:37:DA:BA:C4`. `.secrets/` goes to the local and Drive backups, never GitHub. Losing it means asking Play support for an upload-key reset.
-- Release 1.0.0+1: `releases/1.0.0+1/toefl-prep-1.0.0+1.aab` (upload this to Play) and `.apk` (sideload test).
+- Release 1.0.0+1 built 4 Nov 2026: `releases/1.0.0+1/toefl-prep-1.0.0+1.aab` (upload this to Play, SHA-256 `8f438723…48fb9`) and `.apk` (sideload test, SHA-256 `1512b168…a271a`), both signed with the upload key. Gate before the build: format, analyze, 20 tests (including a full mock sat through every part to the results), validator 0 errors.
+- Device testing on emulator `tofel_api35`: launch, Reading (Complete the Words input, Daily Life), adaptive routing, Listening text-to-speech with man and woman voices, practice conversation with replay, transcript and explanation. Not verified on a device: microphone recording and playback (the emulator kept freezing); covered by the widget test with an in-memory recorder. Check it on a real phone before production.
 
 ## Website: https://tofel.homilabs.org
 - Hostinger: subdomain `tofel.homilabs.org` created 4 Nov 2026 (folder `public_html/tofel` of the homilabs.org website).
@@ -72,5 +73,7 @@ Prep Simulator for TOEFL is independent practice material by HomiLabs. TOEFL® a
 ```
 
 ## Before production (open items)
+- Test Speaking (recording, playback, rating) and a full mock on a real phone.
+- Phone screenshots (2-8) for the listing.
 - Homi reviews the content flags in `docs/review-flags.md` and spot-checks mocks, listening voices and speaking flow on a real phone.
 - Listening uses the phone's text-to-speech voice; recorded human or homidev Kokoro voices would be an upgrade (homidev workflow, Homi approves each clip).
