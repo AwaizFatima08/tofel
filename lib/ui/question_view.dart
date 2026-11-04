@@ -455,10 +455,15 @@ class TranscriptBox extends StatelessWidget {
   Widget build(BuildContext context) {
     final l10n = context.l10n;
     final single = lines.map((l) => l.voice).toSet().length == 1;
-    String who(Line line) =>
-        roles[line.voice] ?? (line.isMan ? l10n.speakerMan : l10n.speakerWoman);
+    String who(Line line) {
+      final role = roles[line.voice];
+      if (role == null || role.isEmpty) return line.isMan ? l10n.speakerMan : l10n.speakerWoman;
+      return role[0].toUpperCase() + role.substring(1);
+    }
+
     return ExpansionTile(
       tilePadding: EdgeInsetsDirectional.zero,
+      expandedCrossAxisAlignment: CrossAxisAlignment.stretch,
       leading: const Icon(Icons.subject),
       title: Text(l10n.transcript),
       children: [
