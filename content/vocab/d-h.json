@@ -1,0 +1,932 @@
+[
+ {
+  "w": "data",
+  "p": "noun",
+  "d": "facts and numbers collected for study",
+  "e": "The data show that sales rose in spring.",
+  "s": [
+   "information",
+   "figures"
+  ]
+ },
+ {
+  "w": "debate",
+  "p": "noun",
+  "d": "a discussion where people give different opinions",
+  "e": "There was a long debate about the new policy.",
+  "s": [
+   "discussion",
+   "argument"
+  ]
+ },
+ {
+  "w": "decline",
+  "p": "verb",
+  "d": "to become smaller, weaker, or fewer",
+  "e": "The number of birds declined over ten years.",
+  "s": [
+   "decrease",
+   "fall"
+  ]
+ },
+ {
+  "w": "dedicate",
+  "p": "verb",
+  "d": "to give time or effort completely to something",
+  "e": "She dedicated her life to teaching.",
+  "s": [
+   "devote",
+   "commit"
+  ]
+ },
+ {
+  "w": "deduce",
+  "p": "verb",
+  "d": "to reach a conclusion from facts or clues",
+  "e": "From the footprints, he deduced that a large animal had passed.",
+  "s": [
+   "infer",
+   "conclude"
+  ]
+ },
+ {
+  "w": "define",
+  "p": "verb",
+  "d": "to say exactly what something means",
+  "e": "The author defines culture as shared habits and beliefs.",
+  "s": [
+   "explain",
+   "specify"
+  ]
+ },
+ {
+  "w": "demonstrate",
+  "p": "verb",
+  "d": "to show clearly that something is true",
+  "e": "The experiment demonstrates how gravity works.",
+  "s": [
+   "show",
+   "prove"
+  ]
+ },
+ {
+  "w": "denote",
+  "p": "verb",
+  "d": "to be a sign or name for something",
+  "e": "In math, the symbol pi denotes a special number.",
+  "s": [
+   "indicate",
+   "mean"
+  ]
+ },
+ {
+  "w": "depict",
+  "p": "verb",
+  "d": "to show something in a picture or words",
+  "e": "The painting depicts a market in the old city.",
+  "s": [
+   "portray",
+   "illustrate"
+  ]
+ },
+ {
+  "w": "deplete",
+  "p": "verb",
+  "d": "to use up so little remains",
+  "e": "Farming without rest can deplete the soil.",
+  "s": [
+   "exhaust",
+   "drain"
+  ]
+ },
+ {
+  "w": "derive",
+  "p": "verb",
+  "d": "to get something from a source",
+  "e": "Many English words derive from Latin.",
+  "s": [
+   "obtain",
+   "originate"
+  ]
+ },
+ {
+  "w": "designate",
+  "p": "verb",
+  "d": "to choose or name for a special purpose",
+  "e": "The area was designated a national park.",
+  "s": [
+   "appoint",
+   "assign"
+  ]
+ },
+ {
+  "w": "detect",
+  "p": "verb",
+  "d": "to notice or discover something hard to see",
+  "e": "The device can detect very small changes in heat.",
+  "s": [
+   "notice",
+   "discover"
+  ]
+ },
+ {
+  "w": "deviate",
+  "p": "verb",
+  "d": "to move away from a usual or planned path",
+  "e": "The results deviated from what we expected.",
+  "s": [
+   "diverge",
+   "stray"
+  ]
+ },
+ {
+  "w": "devote",
+  "p": "verb",
+  "d": "to give time or energy to something",
+  "e": "He devotes every weekend to his research.",
+  "s": [
+   "dedicate",
+   "commit"
+  ]
+ },
+ {
+  "w": "differentiate",
+  "p": "verb",
+  "d": "to see or show the difference between things",
+  "e": "It is hard to differentiate the two species.",
+  "s": [
+   "distinguish",
+   "tell apart"
+  ]
+ },
+ {
+  "w": "dilemma",
+  "p": "noun",
+  "d": "a difficult choice between two options",
+  "e": "She faced a dilemma between work and family.",
+  "s": [
+   "predicament",
+   "quandary"
+  ]
+ },
+ {
+  "w": "diminish",
+  "p": "verb",
+  "d": "to become or make smaller",
+  "e": "Interest in the topic diminished over time.",
+  "s": [
+   "reduce",
+   "decrease"
+  ]
+ },
+ {
+  "w": "discrete",
+  "p": "adjective",
+  "d": "separate and distinct",
+  "e": "The study had three discrete stages.",
+  "s": [
+   "separate",
+   "distinct"
+  ]
+ },
+ {
+  "w": "discriminate",
+  "p": "verb",
+  "d": "to treat people unfairly or to see a difference",
+  "e": "The law forbids employers to discriminate by age.",
+  "s": [
+   "distinguish",
+   "treat unfairly"
+  ]
+ },
+ {
+  "w": "disperse",
+  "p": "verb",
+  "d": "to spread over a wide area",
+  "e": "The crowd dispersed after the show.",
+  "s": [
+   "scatter",
+   "spread"
+  ]
+ },
+ {
+  "w": "displace",
+  "p": "verb",
+  "d": "to move something from its usual place",
+  "e": "Floods displaced thousands of families.",
+  "s": [
+   "dislodge",
+   "replace"
+  ]
+ },
+ {
+  "w": "distinct",
+  "p": "adjective",
+  "d": "clearly different or separate",
+  "e": "The two languages have distinct sounds.",
+  "s": [
+   "separate",
+   "different"
+  ]
+ },
+ {
+  "w": "distort",
+  "p": "verb",
+  "d": "to change the shape or meaning of something",
+  "e": "The news story distorted the facts.",
+  "s": [
+   "twist",
+   "misrepresent"
+  ]
+ },
+ {
+  "w": "distribute",
+  "p": "verb",
+  "d": "to give out or spread among many",
+  "e": "Volunteers distributed food to the families.",
+  "s": [
+   "hand out",
+   "spread"
+  ]
+ },
+ {
+  "w": "diverse",
+  "p": "adjective",
+  "d": "made up of many different kinds",
+  "e": "The university has a diverse student body.",
+  "s": [
+   "varied",
+   "assorted"
+  ]
+ },
+ {
+  "w": "document",
+  "p": "verb",
+  "d": "to record something in writing or pictures",
+  "e": "Scientists documented the changes in the forest.",
+  "s": [
+   "record",
+   "register"
+  ]
+ },
+ {
+  "w": "domain",
+  "p": "noun",
+  "d": "an area of knowledge or activity",
+  "e": "Biology is her domain of expertise.",
+  "s": [
+   "field",
+   "area"
+  ]
+ },
+ {
+  "w": "dominant",
+  "p": "adjective",
+  "d": "most powerful or most common",
+  "e": "English is the dominant language in science.",
+  "s": [
+   "main",
+   "leading"
+  ]
+ },
+ {
+  "w": "draft",
+  "p": "noun",
+  "d": "an early version of a piece of writing",
+  "e": "I finished the first draft of my essay.",
+  "s": [
+   "outline",
+   "version"
+  ]
+ },
+ {
+  "w": "drastic",
+  "p": "adjective",
+  "d": "very strong and sudden",
+  "e": "The company made drastic cuts to its budget.",
+  "s": [
+   "extreme",
+   "severe"
+  ]
+ },
+ {
+  "w": "drop by",
+  "p": "phrasal verb",
+  "d": "to visit someone informally for a short time",
+  "e": "Drop by my office hours if you have questions.",
+  "s": [
+   "visit",
+   "stop in"
+  ]
+ },
+ {
+  "w": "drop out",
+  "p": "phrasal verb",
+  "d": "to leave a course or school before finishing",
+  "e": "He dropped out of the course because it was too hard.",
+  "s": [
+   "quit",
+   "withdraw"
+  ]
+ },
+ {
+  "w": "dynamic",
+  "p": "adjective",
+  "d": "full of energy and change",
+  "e": "The city has a dynamic economy.",
+  "s": [
+   "energetic",
+   "active"
+  ]
+ },
+ {
+  "w": "eliminate",
+  "p": "verb",
+  "d": "to remove something completely",
+  "e": "The new system eliminates many mistakes.",
+  "s": [
+   "remove",
+   "get rid of"
+  ]
+ },
+ {
+  "w": "emerge",
+  "p": "verb",
+  "d": "to come out or become known",
+  "e": "A new trend emerged in the late 1990s.",
+  "s": [
+   "appear",
+   "arise"
+  ]
+ },
+ {
+  "w": "emphasize",
+  "p": "verb",
+  "d": "to give special importance to something",
+  "e": "The teacher emphasized the need to read carefully.",
+  "s": [
+   "stress",
+   "highlight"
+  ]
+ },
+ {
+  "w": "empirical",
+  "p": "adjective",
+  "d": "based on observation or experiment, not just theory",
+  "e": "The claim needs empirical evidence.",
+  "s": [
+   "observed",
+   "experimental"
+  ]
+ },
+ {
+  "w": "enable",
+  "p": "verb",
+  "d": "to make it possible for someone to do something",
+  "e": "The grant enabled her to travel abroad.",
+  "s": [
+   "allow",
+   "permit"
+  ]
+ },
+ {
+  "w": "encounter",
+  "p": "verb",
+  "d": "to meet or find, often by chance",
+  "e": "Explorers encountered many dangers on the trip.",
+  "s": [
+   "meet",
+   "come across"
+  ]
+ },
+ {
+  "w": "enhance",
+  "p": "verb",
+  "d": "to make better or stronger",
+  "e": "Good lighting can enhance learning.",
+  "s": [
+   "improve",
+   "boost"
+  ]
+ },
+ {
+  "w": "ensure",
+  "p": "verb",
+  "d": "to make certain that something happens",
+  "e": "Please ensure that all doors are locked.",
+  "s": [
+   "guarantee",
+   "make sure"
+  ]
+ },
+ {
+  "w": "entity",
+  "p": "noun",
+  "d": "a thing that exists separately",
+  "e": "The company is a separate legal entity.",
+  "s": [
+   "being",
+   "body"
+  ]
+ },
+ {
+  "w": "envision",
+  "p": "verb",
+  "d": "to imagine something in the future",
+  "e": "They envision a city without cars.",
+  "s": [
+   "imagine",
+   "picture"
+  ]
+ },
+ {
+  "w": "equate",
+  "p": "verb",
+  "d": "to treat as equal or the same",
+  "e": "Do not equate wealth with happiness.",
+  "s": [
+   "compare",
+   "match"
+  ]
+ },
+ {
+  "w": "equivalent",
+  "p": "adjective",
+  "d": "equal in value, amount, or meaning",
+  "e": "One mile is roughly equivalent to 1.6 kilometers.",
+  "s": [
+   "equal",
+   "comparable"
+  ]
+ },
+ {
+  "w": "erode",
+  "p": "verb",
+  "d": "to wear away slowly",
+  "e": "Rain eroded the soil on the hill.",
+  "s": [
+   "wear away",
+   "weaken"
+  ]
+ },
+ {
+  "w": "estimate",
+  "p": "verb",
+  "d": "to guess the size or value of something",
+  "e": "Experts estimate the town has ten thousand people.",
+  "s": [
+   "guess",
+   "calculate"
+  ]
+ },
+ {
+  "w": "evaluate",
+  "p": "verb",
+  "d": "to judge how good or useful something is",
+  "e": "The panel will evaluate each proposal.",
+  "s": [
+   "assess",
+   "judge"
+  ]
+ },
+ {
+  "w": "evident",
+  "p": "adjective",
+  "d": "easy to see or understand",
+  "e": "It was evident that she was tired.",
+  "s": [
+   "clear",
+   "obvious"
+  ]
+ },
+ {
+  "w": "evolve",
+  "p": "verb",
+  "d": "to develop gradually over time",
+  "e": "Languages evolve as people use them.",
+  "s": [
+   "develop",
+   "progress"
+  ]
+ },
+ {
+  "w": "exceed",
+  "p": "verb",
+  "d": "to be more than a limit or amount",
+  "e": "Costs exceeded the budget by ten percent.",
+  "s": [
+   "surpass",
+   "go beyond"
+  ]
+ },
+ {
+  "w": "exclude",
+  "p": "verb",
+  "d": "to leave something out",
+  "e": "The survey excluded people under eighteen.",
+  "s": [
+   "omit",
+   "leave out"
+  ]
+ },
+ {
+  "w": "exhibit",
+  "p": "verb",
+  "d": "to show something in public or to display a quality",
+  "e": "The museum exhibits paintings from many countries.",
+  "s": [
+   "display",
+   "show"
+  ]
+ },
+ {
+  "w": "expand",
+  "p": "verb",
+  "d": "to become larger",
+  "e": "The company plans to expand into new markets.",
+  "s": [
+   "grow",
+   "enlarge"
+  ]
+ },
+ {
+  "w": "explicit",
+  "p": "adjective",
+  "d": "stated clearly and in detail",
+  "e": "The teacher gave explicit instructions for the test.",
+  "s": [
+   "clear",
+   "specific"
+  ]
+ },
+ {
+  "w": "exploit",
+  "p": "verb",
+  "d": "to use something fully, or to use unfairly",
+  "e": "Early farmers exploited rich river soil.",
+  "s": [
+   "utilize",
+   "take advantage of"
+  ]
+ },
+ {
+  "w": "expose",
+  "p": "verb",
+  "d": "to uncover or make visible",
+  "e": "Digging exposed the remains of an ancient wall.",
+  "s": [
+   "reveal",
+   "uncover"
+  ]
+ },
+ {
+  "w": "external",
+  "p": "adjective",
+  "d": "on the outside; coming from outside",
+  "e": "External factors such as weather affect crops.",
+  "s": [
+   "outer",
+   "outside"
+  ]
+ },
+ {
+  "w": "extract",
+  "p": "verb",
+  "d": "to take out, often with effort",
+  "e": "Workers extract copper from the mine.",
+  "s": [
+   "remove",
+   "pull out"
+  ]
+ },
+ {
+  "w": "facilitate",
+  "p": "verb",
+  "d": "to make a process easier",
+  "e": "Computers facilitate the sharing of information.",
+  "s": [
+   "ease",
+   "help"
+  ]
+ },
+ {
+  "w": "factor",
+  "p": "noun",
+  "d": "one of the things that influence a result",
+  "e": "Price is a major factor in my choice.",
+  "s": [
+   "element",
+   "cause"
+  ]
+ },
+ {
+  "w": "fall behind",
+  "p": "phrasal verb",
+  "d": "to fail to keep up with others or with a schedule",
+  "e": "If you miss too many classes, you will fall behind.",
+  "s": [
+   "lag",
+   "slip back"
+  ]
+ },
+ {
+  "w": "feasible",
+  "p": "adjective",
+  "d": "possible to do",
+  "e": "The plan is feasible with a small budget.",
+  "s": [
+   "practical",
+   "workable"
+  ]
+ },
+ {
+  "w": "figure out",
+  "p": "phrasal verb",
+  "d": "to understand or solve something",
+  "e": "I can't figure out how to use this printer.",
+  "s": [
+   "work out",
+   "solve"
+  ]
+ },
+ {
+  "w": "fill out",
+  "p": "phrasal verb",
+  "d": "to write information on a form",
+  "e": "Please fill out this form before you enter.",
+  "s": [
+   "complete",
+   "fill in"
+  ]
+ },
+ {
+  "w": "fluctuate",
+  "p": "verb",
+  "d": "to go up and down irregularly",
+  "e": "Prices fluctuate throughout the year.",
+  "s": [
+   "vary",
+   "shift"
+  ]
+ },
+ {
+  "w": "format",
+  "p": "noun",
+  "d": "the way something is arranged or organized",
+  "e": "The test has a new format this year.",
+  "s": [
+   "layout",
+   "structure"
+  ]
+ },
+ {
+  "w": "formulate",
+  "p": "verb",
+  "d": "to prepare or express an idea carefully",
+  "e": "The team formulated a plan to reduce waste.",
+  "s": [
+   "develop",
+   "devise"
+  ]
+ },
+ {
+  "w": "foundation",
+  "p": "noun",
+  "d": "the base or basic idea on which something is built",
+  "e": "Good habits are the foundation of success.",
+  "s": [
+   "basis",
+   "base"
+  ]
+ },
+ {
+  "w": "fragile",
+  "p": "adjective",
+  "d": "easily broken or damaged",
+  "e": "The ancient pottery is very fragile.",
+  "s": [
+   "delicate",
+   "breakable"
+  ]
+ },
+ {
+  "w": "framework",
+  "p": "noun",
+  "d": "a basic structure of ideas or parts",
+  "e": "The paper presents a framework for studying memory.",
+  "s": [
+   "structure",
+   "outline"
+  ]
+ },
+ {
+  "w": "function",
+  "p": "noun",
+  "d": "the purpose or job of something",
+  "e": "The function of the heart is to pump blood.",
+  "s": [
+   "purpose",
+   "role"
+  ]
+ },
+ {
+  "w": "fundamental",
+  "p": "adjective",
+  "d": "basic and very important",
+  "e": "Respect is fundamental to good teamwork.",
+  "s": [
+   "basic",
+   "essential"
+  ]
+ },
+ {
+  "w": "generate",
+  "p": "verb",
+  "d": "to produce or create",
+  "e": "Wind turbines generate electricity.",
+  "s": [
+   "produce",
+   "create"
+  ]
+ },
+ {
+  "w": "genuine",
+  "p": "adjective",
+  "d": "real and not pretended",
+  "e": "She showed genuine interest in the topic.",
+  "s": [
+   "real",
+   "sincere"
+  ]
+ },
+ {
+  "w": "get along with",
+  "p": "phrasal verb",
+  "d": "to have a good relationship with someone",
+  "e": "I get along well with my roommate.",
+  "s": [
+   "be friendly with",
+   "agree with"
+  ]
+ },
+ {
+  "w": "get over",
+  "p": "phrasal verb",
+  "d": "to recover from an illness or problem",
+  "e": "It took a week to get over the flu.",
+  "s": [
+   "recover from",
+   "overcome"
+  ]
+ },
+ {
+  "w": "get the hang of",
+  "p": "idiom",
+  "d": "to learn how to do something",
+  "e": "You'll get the hang of the software soon.",
+  "s": [
+   "learn",
+   "master"
+  ]
+ },
+ {
+  "w": "give up",
+  "p": "phrasal verb",
+  "d": "to stop trying",
+  "e": "Don't give up on your goal.",
+  "s": [
+   "quit",
+   "surrender"
+  ]
+ },
+ {
+  "w": "globalization",
+  "p": "noun",
+  "d": "the spread of business and culture around the world",
+  "e": "Globalization has linked economies across countries.",
+  "s": [
+   "internationalization",
+   "integration"
+  ]
+ },
+ {
+  "w": "go over",
+  "p": "phrasal verb",
+  "d": "to review or check something carefully",
+  "e": "Let's go over your notes before the quiz.",
+  "s": [
+   "review",
+   "check"
+  ]
+ },
+ {
+  "w": "gradual",
+  "p": "adjective",
+  "d": "happening slowly, step by step",
+  "e": "There was a gradual rise in temperature.",
+  "s": [
+   "slow",
+   "steady"
+  ]
+ },
+ {
+  "w": "guideline",
+  "p": "noun",
+  "d": "a rule or piece of advice on how to do something",
+  "e": "Follow the guidelines when you write your report.",
+  "s": [
+   "rule",
+   "instruction"
+  ]
+ },
+ {
+  "w": "halt",
+  "p": "verb",
+  "d": "to stop or make something stop",
+  "e": "Heavy rain halted the football game.",
+  "s": [
+   "stop",
+   "end"
+  ]
+ },
+ {
+  "w": "hand in",
+  "p": "phrasal verb",
+  "d": "to give work to a teacher",
+  "e": "Please hand in your paper by Friday.",
+  "s": [
+   "submit",
+   "turn in"
+  ]
+ },
+ {
+  "w": "hang out",
+  "p": "phrasal verb",
+  "d": "to spend time relaxing with friends",
+  "e": "We usually hang out in the student lounge.",
+  "s": [
+   "spend time",
+   "relax"
+  ]
+ },
+ {
+  "w": "hazard",
+  "p": "noun",
+  "d": "something that may cause danger or harm",
+  "e": "Loose cables are a safety hazard.",
+  "s": [
+   "danger",
+   "risk"
+  ]
+ },
+ {
+  "w": "hence",
+  "p": "adverb",
+  "d": "for this reason; from this point",
+  "e": "The soil is poor; hence the harvest was small.",
+  "s": [
+   "therefore",
+   "thus"
+  ]
+ },
+ {
+  "w": "hierarchy",
+  "p": "noun",
+  "d": "a system with people or things ranked by importance",
+  "e": "Ants live in a strict social hierarchy.",
+  "s": [
+   "ranking",
+   "order"
+  ]
+ },
+ {
+  "w": "highlight",
+  "p": "verb",
+  "d": "to draw attention to something important",
+  "e": "The report highlights the need for more teachers.",
+  "s": [
+   "emphasize",
+   "stress"
+  ]
+ },
+ {
+  "w": "hit the books",
+  "p": "idiom",
+  "d": "to start studying hard",
+  "e": "I have to hit the books tonight for the exam.",
+  "s": [
+   "study",
+   "cram"
+  ]
+ },
+ {
+  "w": "hypothesis",
+  "p": "noun",
+  "d": "an idea that is suggested as an explanation and must be tested",
+  "e": "Her hypothesis was that plants grow faster with music.",
+  "s": [
+   "theory",
+   "assumption"
+  ]
+ }
+]

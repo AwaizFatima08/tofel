@@ -1,0 +1,399 @@
+{
+ "papers": 20,
+ "sections": [
+  {
+   "key": "reading",
+   "title": "Reading",
+   "topics": [
+    {
+     "key": "ctw",
+     "prefix": "rc",
+     "title": "Complete the Words",
+     "set_size": 0,
+     "practice": 30,
+     "scope": "A short academic paragraph (60-95 words): the first sentence is whole, then exactly 10 words have their second half missing; the test taker types the missing letters. Tests vocabulary, word forms, grammar and meaning from context.",
+     "test": {
+      "L1": 20,
+      "L2": 40,
+      "L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "rdl2",
+     "prefix": "rs",
+     "title": "Read in Daily Life: short texts",
+     "set_size": 2,
+     "practice": 12,
+     "scope": "Short everyday texts (25-80 words): notices, signs, text messages, menus, social media posts, short emails, timetables. 2 questions each: purpose, detail, meaning of a phrase, what the reader should do.",
+     "test": {
+      "L1": 20,
+      "L2": 20
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "rdl3",
+     "prefix": "rl",
+     "title": "Read in Daily Life: longer texts",
+     "set_size": 3,
+     "practice": 12,
+     "scope": "Longer everyday texts (90-160 words): emails, campus announcements, flyers, product instructions, schedules, web pages, message threads. 3 questions each: purpose, detail, inference, vocabulary, next action.",
+     "test": {
+      "L1": 20,
+      "L2": 20
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "rap",
+     "prefix": "ra",
+     "title": "Read an Academic Passage",
+     "set_size": 5,
+     "practice": 12,
+     "scope": "Academic passages of 170-230 words (life and earth science, history, art, psychology, business, technology) with 5 questions: main idea, detail, inference, vocabulary in context, reference, purpose of a sentence, organization, negative fact.",
+     "test": {
+      "L2": 40,
+      "L3": 20
+     },
+     "test_unit": "sets"
+    }
+   ]
+  },
+  {
+   "key": "listening",
+   "title": "Listening",
+   "topics": [
+    {
+     "key": "lcr",
+     "prefix": "lr",
+     "title": "Listen and Choose a Response",
+     "set_size": 0,
+     "practice": 60,
+     "scope": "One speaker says a short line (a question, request, complaint or remark, 4-20 words); choose the most natural reply from four written responses. Tests pragmatic meaning, idioms and indirect answers.",
+     "test": {
+      "L1": 140,
+      "L2": 200,
+      "L3": 100
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "lcv",
+     "prefix": "lc",
+     "title": "Listen to a Conversation",
+     "set_size": 2,
+     "practice": 16,
+     "scope": "Short conversations between two speakers (80-150 words, 6-10 turns) in campus or everyday settings, 2 questions each: main topic, detail, speaker's purpose or attitude, what happens next.",
+     "test": {
+      "L1": 40,
+      "L2": 60,
+      "L3": 40
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "lan",
+     "prefix": "la",
+     "title": "Listen to an Announcement",
+     "set_size": 2,
+     "practice": 12,
+     "scope": "Announcements or voicemails by one speaker (70-130 words): class changes, campus events, facility rules, field trips, deadlines. 2 questions each: purpose, detail, what listeners must do.",
+     "test": {
+      "L1": 40,
+      "L2": 40,
+      "L3": 20
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "lat",
+     "prefix": "lt",
+     "title": "Listen to an Academic Talk",
+     "set_size": 4,
+     "practice": 10,
+     "scope": "Short lectures or academic talks by one speaker (160-250 words), science, social science, humanities, business. 4 questions each: main idea, detail, purpose of an example, speaker's attitude, organization, inference.",
+     "test": {
+      "L2": 60,
+      "L3": 20
+     },
+     "test_unit": "sets"
+    }
+   ]
+  },
+  {
+   "key": "writing",
+   "title": "Writing",
+   "topics": [
+    {
+     "key": "bas",
+     "prefix": "wb",
+     "title": "Build a Sentence",
+     "set_size": 0,
+     "practice": 60,
+     "scope": "A line from one person in a short exchange; the reply is built by putting 4-7 word chunks in the right order (sometimes with one extra chunk that does not belong). Tests word order: questions, embedded questions, tenses, relative clauses, adverb placement.",
+     "test": {
+      "L1": 60,
+      "L2": 80,
+      "L3": 60
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "eml",
+     "prefix": "we",
+     "title": "Write an Email",
+     "set_size": 0,
+     "practice": 10,
+     "scope": "A practical situation (about 60-100 words) and three things the email must do; write an email of about 100-150 words in 7 minutes with the right tone.",
+     "test": {
+      "L2": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "dsc",
+     "prefix": "wd",
+     "title": "Write for an Academic Discussion",
+     "set_size": 0,
+     "practice": 10,
+     "scope": "A professor's question on a class discussion board and two students' posts; write a contribution of at least 100 words in 10 minutes that states and supports an opinion.",
+     "test": {
+      "L2": 20
+     },
+     "test_unit": "questions"
+    }
+   ]
+  },
+  {
+   "key": "speaking",
+   "title": "Speaking",
+   "topics": [
+    {
+     "key": "lrp",
+     "prefix": "sr",
+     "title": "Listen and Repeat",
+     "set_size": 7,
+     "practice": 8,
+     "scope": "A scenario (e.g. training as a museum guide) and 7 sentences to repeat exactly, getting longer and more complex (4 to about 20 words).",
+     "test": {
+      "L2": 20
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "int",
+     "prefix": "si",
+     "title": "Take an Interview",
+     "set_size": 4,
+     "practice": 8,
+     "scope": "A scenario (e.g. a research study about city life) and 4 interview questions, from personal and familiar to opinion and prediction; 45 seconds to answer each, no preparation time.",
+     "test": {
+      "L2": 20
+     },
+     "test_unit": "sets"
+    }
+   ]
+  }
+ ],
+ "adaptive": {
+  "reading": {
+   "title": "Reading",
+   "minutes": {
+    "router": 20,
+    "lower": 9,
+    "upper": 9
+   },
+   "items": {
+    "router": 35,
+    "lower": 15,
+    "upper": 15
+   },
+   "stages": {
+    "router": [
+     {
+      "topic": "ctw",
+      "level": 2,
+      "count": 2
+     },
+     {
+      "topic": "rdl2",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "rdl3",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "rap",
+      "level": 2,
+      "count": 2
+     }
+    ],
+    "lower": [
+     {
+      "topic": "ctw",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "rdl2",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "rdl3",
+      "level": 1,
+      "count": 1
+     }
+    ],
+    "upper": [
+     {
+      "topic": "ctw",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "rap",
+      "level": 3,
+      "count": 1
+     }
+    ]
+   }
+  },
+  "listening": {
+   "title": "Listening",
+   "minutes": {
+    "router": 18,
+    "lower": 7,
+    "upper": 11
+   },
+   "items": {
+    "router": 32,
+    "lower": 15,
+    "upper": 15
+   },
+   "stages": {
+    "router": [
+     {
+      "topic": "lcr",
+      "level": 2,
+      "count": 10
+     },
+     {
+      "topic": "lcv",
+      "level": 2,
+      "count": 3
+     },
+     {
+      "topic": "lan",
+      "level": 2,
+      "count": 2
+     },
+     {
+      "topic": "lat",
+      "level": 2,
+      "count": 3
+     }
+    ],
+    "lower": [
+     {
+      "topic": "lcr",
+      "level": 1,
+      "count": 7
+     },
+     {
+      "topic": "lcv",
+      "level": 1,
+      "count": 2
+     },
+     {
+      "topic": "lan",
+      "level": 1,
+      "count": 2
+     }
+    ],
+    "upper": [
+     {
+      "topic": "lcr",
+      "level": 3,
+      "count": 5
+     },
+     {
+      "topic": "lcv",
+      "level": 3,
+      "count": 2
+     },
+     {
+      "topic": "lan",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "lat",
+      "level": 3,
+      "count": 1
+     }
+    ]
+   }
+  }
+ },
+ "route_upper_at": {
+  "reading": 21,
+  "listening": 19
+ },
+ "writing": {
+  "tasks": [
+   {
+    "topic": "bas",
+    "level": 1,
+    "count": 3
+   },
+   {
+    "topic": "bas",
+    "level": 2,
+    "count": 4
+   },
+   {
+    "topic": "bas",
+    "level": 3,
+    "count": 3
+   },
+   {
+    "topic": "eml",
+    "level": 2,
+    "count": 1
+   },
+   {
+    "topic": "dsc",
+    "level": 2,
+    "count": 1
+   }
+  ],
+  "minutes": {
+   "bas": 6,
+   "eml": 7,
+   "dsc": 10
+  }
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "topic": "lrp",
+    "level": 2,
+    "count": 1
+   },
+   {
+    "topic": "int",
+    "level": 2,
+    "count": 1
+   }
+  ],
+  "seconds": {
+   "lrp": 12,
+   "int": 45
+  }
+ }
+}

@@ -1,0 +1,484 @@
+{
+  "@@locale": "en",
+  "appTitle": "Prep Simulator for TOEFL",
+  "loadError": "Could not load this. Please restart the app. ({code})",
+  "@loadError": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "tabTests": "Mock tests",
+  "tabPractice": "Practice",
+  "tabGuide": "Guide",
+  "tabProgress": "Progress",
+  "about": "About",
+  "testsIntro": "{count} full-length mock tests in the current TOEFL iBT format (since January 2026): adaptive Reading and Listening, then Writing and Speaking, about 1 hour 30 minutes. Each section is scored 1-6 with an overall band, CEFR level and comparable 0-120 score.",
+  "@testsIntro": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "bestScore": "Best overall band {band}",
+  "@bestScore": {
+    "placeholders": {
+      "band": {
+        "type": "String"
+      }
+    }
+  },
+  "inProgress": "In progress",
+  "notStarted": "Not taken",
+  "aboutMinutes": "about {minutes} min",
+  "@aboutMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "totalTime": "About {hours} h {minutes} min",
+  "@totalTime": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "stagesCount": "{count} timed parts, each with its own intro screen.",
+  "@stagesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "partsReading": "Complete the Words, Read in Daily Life, Read an Academic Passage · router + module",
+  "partsListening": "Choose a Response, Conversations, Announcements, Academic Talks · router + module",
+  "partsWriting": "Build a Sentence (10), Write an Email, Academic Discussion",
+  "partsSpeaking": "Listen and Repeat (7), Take an Interview (4)",
+  "bandLine": "R {reading} · L {listening} · W {writing} · S {speaking} · overall {overall}",
+  "@bandLine": {
+    "placeholders": {
+      "reading": {
+        "type": "String"
+      },
+      "listening": {
+        "type": "String"
+      },
+      "writing": {
+        "type": "String"
+      },
+      "speaking": {
+        "type": "String"
+      },
+      "overall": {
+        "type": "String"
+      }
+    }
+  },
+  "startTest": "Start mock test",
+  "resumeTest": "Resume",
+  "restartTest": "Start again",
+  "paperRules": "Reading and Listening are adaptive: how you do in the first module decides whether the second is easier or harder. In Reading you can go back within a module; Listening runs forward only and every recording plays once, as on the test, so take notes. Writing has three timed tasks. Speaking runs by itself: listen, then speak when the microphone turns on. Use headphones in a quiet room. Leaving the app pauses the clock (the real test does not).",
+  "unofficialNote": "Independent practice test. Scores are estimates; ETS sets and scores the real TOEFL iBT.",
+  "previousAttempts": "Previous attempts",
+  "questionOf": "Question {number} of {total}",
+  "@questionOf": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "previous": "Back",
+  "next": "Next",
+  "review": "Review",
+  "endSection": "End this part",
+  "finish": "Finish",
+  "mark": "Mark",
+  "marked": "Marked",
+  "answered": "Answered",
+  "answeredOf": "{answered} of {total} answered",
+  "@answeredOf": {
+    "placeholders": {
+      "answered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "clearAnswer": "Clear answer",
+  "timeLeft": "Time left in this part",
+  "timeLeftValue": "Time left {time}",
+  "@timeLeftValue": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "leaveTitle": "Leave the test?",
+  "leaveBody": "Your answers are saved and the clock pauses. You can resume from the Mock tests tab. A recording that was playing will play again from the start.",
+  "stay": "Stay",
+  "leave": "Leave",
+  "endSectionTitle": "End this part?",
+  "finishTitle": "Finish the test?",
+  "endSectionBody": "You cannot return to this part after it ends.",
+  "unansweredWarning": "{count, plural, =1{1 question is not answered.} other{{count} questions are not answered.}} There is no penalty for guessing.",
+  "@unansweredWarning": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "keepWorking": "Keep working",
+  "finishTest": "Finish and see scores",
+  "stageOf": "Part {number} of {total}",
+  "@stageOf": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "stageSize": "{count} points · {minutes} minutes",
+  "@stageSize": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "stageItems": "{count, plural, =1{1 item} other{{count} items}} · timed answers",
+  "@stageItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "beginSection": "Begin",
+  "introReading": "Complete the Words: type the missing letters to finish each word. Read in Daily Life and Read an Academic Passage: answer the questions about each text; the text stays on screen. You can go back and change answers within this module, and mark questions to revisit.",
+  "introListening": "Each recording plays once, then its questions appear one by one. Notes are allowed. Choose a Response: hear one line and pick the best reply. Then conversations, announcements and short academic talks. You cannot go back in Listening.",
+  "introBas": "Build a Sentence: for each short exchange, tap the word groups in the right order to make the reply. Tap a placed group to take it back. One group may not belong. About 6 minutes for 10 sentences.",
+  "introEmail": "Write an Email: read the situation and write an email that does all three things listed. Use a greeting and a closing, and match your tone to the reader. 7 minutes; about 100-150 words is a good length. There is no spell-check.",
+  "introDiscussion": "Write for an Academic Discussion: read the professor's question and two students' posts, then post your own opinion with reasons and an example. Add something new to the discussion. 10 minutes; at least 100 words.",
+  "introRepeat": "Listen and Repeat: you will hear a short scenario, then 7 sentences one at a time. After each sentence the microphone turns on: repeat it exactly. The sentences get longer.",
+  "introInterview": "Take an Interview: an interviewer asks 4 questions about one topic. After each question you have 45 seconds to answer. There is no preparation time; start speaking when the microphone turns on.",
+  "introAdaptive": "This first module is of medium difficulty. How you do here decides whether the second module is easier or harder; only the harder module opens the top bands (5-6).",
+  "introSound": "Turn your volume up and use headphones. Recordings are read by your phone's English voice; if you hear nothing, install or update the English voice in your phone's text-to-speech settings.",
+  "sectionReading": "Reading",
+  "sectionListening": "Listening",
+  "sectionWriting": "Writing",
+  "sectionSpeaking": "Speaking",
+  "moduleTitle": "{section} · Module {number}",
+  "@moduleTitle": {
+    "placeholders": {
+      "section": {
+        "type": "String"
+      },
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "moduleN": "Module {number}",
+  "@moduleN": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "routeUpper": "harder",
+  "routeLower": "easier",
+  "taskBas": "Build a Sentence",
+  "taskEmail": "Write an Email",
+  "taskDiscussion": "Academic Discussion",
+  "taskRepeat": "Listen and Repeat",
+  "taskInterview": "Take an Interview",
+  "ctwInstruction": "Fill in the missing letters in the paragraph.",
+  "basInstruction": "Make an appropriate sentence. Tap the word groups in order.",
+  "basHint": "Tap the word groups below",
+  "lcrInstruction": "Choose the best response.",
+  "lcrSituation": "Listen to the speaker and choose the best response.",
+  "listenOnce": "The recording plays once. Its questions appear when it ends.",
+  "nowPlaying": "Listening…",
+  "recordingDone": "Recording finished.",
+  "play": "Play",
+  "playAgain": "Play again",
+  "listenNow": "Listen",
+  "speakNow": "Speak now",
+  "recordingNow": "Recording",
+  "secondsLeft": "{seconds} s",
+  "@secondsLeft": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "doneSpeaking": "I'm done",
+  "answerSaved": "Answer saved.",
+  "micRefused": "The microphone is off for this app, so your answer cannot be recorded. Allow the microphone in your phone's settings, then try again.",
+  "speakerMan": "Man",
+  "speakerWoman": "Woman",
+  "transcript": "Transcript",
+  "emailHint": "Write your email here",
+  "discussionHint": "Write your post here",
+  "wordCount": "{count, plural, =1{1 word} other{{count} words}}",
+  "@wordCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "readPassage": "Show text",
+  "hidePassage": "Hide text",
+  "correct": "Correct",
+  "incorrect": "Incorrect",
+  "correctAnswer": "Correct answer",
+  "explanation": "Explanation",
+  "check": "Check answer",
+  "estimatedScores": "Estimated overall band",
+  "overallLine": "CEFR {cefr} · comparable total about {total} / 120",
+  "@overallLine": {
+    "placeholders": {
+      "cefr": {
+        "type": "String"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "provisional": "Provisional: rate your Writing and Speaking answers to complete the score (unrated tasks count as 0).",
+  "scoreOutOf": "{correct} of {total}",
+  "@scoreOutOf": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "notRated": "not rated",
+  "rubricPoints": "Rubric points",
+  "rateNow": "Rate your {section} answers ({count} to rate)",
+  "@rateNow": {
+    "placeholders": {
+      "section": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "modelAnswersFor": "{section}: your answers and model answers",
+  "@modelAnswersFor": {
+    "placeholders": {
+      "section": {
+        "type": "String"
+      }
+    }
+  },
+  "reviewAnswers": "Review answers and explanations",
+  "weakTopics": "Tasks to work on",
+  "scoreDisclaimer": "Practice estimate. ETS scores the real test with statistical equating and AI scoring of Writing and Speaking; these bands follow the 1-6 scale and its published 0-120 comparison but cannot match it exactly. Track your trend over several mocks.",
+  "backHome": "Back to home",
+  "reviewTitle": "Answer review",
+  "filterAll": "All",
+  "filterWrong": "Wrong",
+  "filterSkipped": "Skipped",
+  "filterMarked": "Marked",
+  "filterEmpty": "Nothing here.",
+  "notAnswered": "not answered",
+  "hearRecording": "Hear the recording",
+  "hearAgain": "Hear it again",
+  "hearScenario": "Hear the scenario",
+  "rateTitle": "Rate: {section}",
+  "@rateTitle": {
+    "placeholders": {
+      "section": {
+        "type": "String"
+      }
+    }
+  },
+  "rateIntro": "Compare each answer with the model and the description of each score, then pick the score that fits honestly. Listen to your recording before rating a spoken answer. Your ratings set the Writing and Speaking bands.",
+  "sectionBand": "Section band: {band}",
+  "@sectionBand": {
+    "placeholders": {
+      "band": {
+        "type": "String"
+      }
+    }
+  },
+  "stillToRate": "{count, plural, =1{1 answer} other{{count} answers}} still to rate",
+  "@stillToRate": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "yourResponse": "Your response",
+  "essayEmpty": "(Nothing written.)",
+  "strongResponse": "What a strong response does",
+  "sentenceWas": "The sentence was",
+  "questionWas": "The question was",
+  "modelAnswer": "Model answer",
+  "whatToWatch": "What to watch",
+  "rateYourself": "Rate yourself (0-5)",
+  "playMyAnswer": "Play my answer",
+  "stopPlaying": "Stop",
+  "noRecording": "No recording saved.",
+  "writing5": "Fully successful: does everything the task asks, ideas well explained with details, clear organization, varied and precise language, almost no errors, tone right for the reader.",
+  "writing4": "Generally successful: does the task with relevant, adequate support; one part a little thin; good language with a few minor errors.",
+  "writing3": "Partly successful: understandable, but some of the task is missing or support is thin; noticeable errors sometimes distract.",
+  "writing2": "Mostly unsuccessful: little development, limited vocabulary and grammar, frequent errors that make some ideas unclear.",
+  "writing1": "Unsuccessful: very short or few connected ideas; errors make most of it hard to follow.",
+  "writing0": "No response, off-topic, copied from the prompt, or not in English.",
+  "repeat5": "Exact: every word in the right order, clear and natural.",
+  "repeat4": "One small slip (an article or ending), meaning kept, easy to understand.",
+  "repeat3": "A few words changed or missing, but the meaning is mostly kept.",
+  "repeat2": "Parts of the sentence missing or changed; meaning partly lost.",
+  "repeat1": "Only a few words of the sentence.",
+  "repeat0": "No answer, or nothing recognizable.",
+  "interview5": "Answers the question fully and fluently, with reasons and examples; varied, accurate language; easy to understand throughout.",
+  "interview4": "Answers well with some development; mostly fluent; minor errors or hesitation.",
+  "interview3": "Answers the question but development is limited; noticeable pauses or errors; generally understandable.",
+  "interview2": "Short or partly relevant answer; frequent pauses or errors; sometimes hard to follow.",
+  "interview1": "A few words or phrases only; very hard to understand.",
+  "interview0": "No answer or not related to the question.",
+  "practiceIntro": "Every TOEFL task, each with a lesson and its own practice items (never used in the mock tests). Answers and explanations show as you go; listening can be replayed with a transcript.",
+  "lesson": "Lesson",
+  "lessonHelp": "What's on screen, method, examples and traps",
+  "practiceSet": "Practice set",
+  "practicePool": "{count} practice items",
+  "@practicePool": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "practiceTally": "{correct} of {total} points so far",
+  "@practiceTally": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "practiceEmpty": "No practice items here yet.",
+  "practiceDone": "Set complete",
+  "practiceAgain": "Another set",
+  "backToTopic": "Back to task",
+  "practiceNow": "Practice this task",
+  "readingTime": "About {minutes} minutes",
+  "@readingTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "levelName": "{level, select, 1{Easy} 2{Medium} other{Hard}}",
+  "@levelName": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "taskPracticeIntro": "Pick one. Do the task under the real time limit, then compare with the model answer and rate yourself.",
+  "doneShowModel": "Done: show the model answer",
+  "startSentence": "Start: hear the sentence",
+  "startQuestion": "Start: hear the question",
+  "tryAgain": "Try again",
+  "vocabulary": "Vocabulary flashcards",
+  "vocabularyHelp": "Academic words, phrasal verbs and idioms with meanings, examples and synonyms",
+  "shuffle": "Shuffle",
+  "includeKnown": "Include words I know",
+  "vocabProgress": "{known} of {total} words known",
+  "@vocabProgress": {
+    "placeholders": {
+      "known": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "vocabDone": "You have marked every word as known. Switch on \"Include words I know\" to review.",
+  "cardOf": "Card {number} of {total}",
+  "@cardOf": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "markKnown": "I know this",
+  "unmarkKnown": "Not yet",
+  "tapToReveal": "Tap to see the meaning",
+  "synonyms": "Synonyms: {list}",
+  "@synonyms": {
+    "placeholders": {
+      "list": {
+        "type": "String"
+      }
+    }
+  },
+  "progressEmpty": "Take a mock test or a practice set and your progress shows here.",
+  "testsTaken": "Mocks taken",
+  "averageOverall": "Average band",
+  "recentOverall": "Last 3 mocks",
+  "topicMastery": "Weakest tasks",
+  "history": "History",
+  "percentLabel": "{percent}%",
+  "@percentLabel": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "version": "Version 1.0.0",
+  "website": "Website",
+  "privacy": "Privacy policy",
+  "privacyChoices": "Privacy choices (ads)",
+  "terms": "Terms of use",
+  "contact": "Contact: homilabs.smc@gmail.com",
+  "aboutBody": "Prep Simulator for TOEFL is an independent practice app by HomiLabs. TOEFL® and TOEFL iBT® are registered trademarks of ETS. This app is not endorsed or approved by ETS and is not affiliated with it. All texts, recordings, questions, prompts, lessons and explanations are original practice material written for this app, not real test questions, and scores are practice estimates only. Listening recordings are spoken by your phone's text-to-speech voice. Your answers and voice recordings stay on your phone."
+}

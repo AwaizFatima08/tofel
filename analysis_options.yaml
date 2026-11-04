@@ -1,0 +1,20 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+formatter:
+  page_width: 100
+
+analyzer:
+  language:
+    strict-casts: true
+    strict-raw-types: true
+  exclude:
+    - lib/l10n/gen/**
+
+linter:
+  rules:
+    public_member_api_docs: false
+    lines_longer_than_80_chars: false
+    # Riverpod family provider types live in riverpod/src; let them be inferred.
+    specify_nonobvious_property_types: false
+    one_member_abstracts: false
+    sort_pub_dependencies: false

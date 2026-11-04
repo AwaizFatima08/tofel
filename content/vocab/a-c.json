@@ -1,0 +1,1052 @@
+[
+ {
+  "w": "a heads-up",
+  "p": "idiom",
+  "d": "an early warning about something",
+  "e": "Thanks for the heads-up about the schedule change.",
+  "s": [
+   "warning",
+   "notice"
+  ]
+ },
+ {
+  "w": "a piece of cake",
+  "p": "idiom",
+  "d": "something very easy",
+  "e": "The quiz was a piece of cake.",
+  "s": [
+   "very easy",
+   "simple"
+  ]
+ },
+ {
+  "w": "abandon",
+  "p": "verb",
+  "d": "to leave something completely and not come back",
+  "e": "The scientists abandoned the experiment when the money ran out.",
+  "s": [
+   "desert",
+   "give up"
+  ]
+ },
+ {
+  "w": "abstract",
+  "p": "adjective",
+  "d": "existing as an idea, not as a physical thing",
+  "e": "Freedom is an abstract concept that is hard to measure.",
+  "s": [
+   "theoretical",
+   "conceptual"
+  ]
+ },
+ {
+  "w": "accumulate",
+  "p": "verb",
+  "d": "to collect more and more of something over time",
+  "e": "Dust accumulated on the old books.",
+  "s": [
+   "gather",
+   "build up"
+  ]
+ },
+ {
+  "w": "accurate",
+  "p": "adjective",
+  "d": "correct and without mistakes",
+  "e": "The map was accurate, so we found the lab easily.",
+  "s": [
+   "precise",
+   "exact"
+  ]
+ },
+ {
+  "w": "acquire",
+  "p": "verb",
+  "d": "to get or gain something",
+  "e": "Children acquire language very quickly.",
+  "s": [
+   "obtain",
+   "gain"
+  ]
+ },
+ {
+  "w": "adapt",
+  "p": "verb",
+  "d": "to change to fit a new situation",
+  "e": "Many animals adapt to cold weather by growing thick fur.",
+  "s": [
+   "adjust",
+   "modify"
+  ]
+ },
+ {
+  "w": "adequate",
+  "p": "adjective",
+  "d": "enough or good enough for a purpose",
+  "e": "The room was adequate for a small class.",
+  "s": [
+   "sufficient",
+   "satisfactory"
+  ]
+ },
+ {
+  "w": "adjacent",
+  "p": "adjective",
+  "d": "next to something",
+  "e": "The library is adjacent to the science building.",
+  "s": [
+   "neighboring",
+   "next to"
+  ]
+ },
+ {
+  "w": "advocate",
+  "p": "verb",
+  "d": "to publicly support an idea or plan",
+  "e": "She advocates more funding for public parks.",
+  "s": [
+   "support",
+   "promote"
+  ]
+ },
+ {
+  "w": "affect",
+  "p": "verb",
+  "d": "to cause a change in something",
+  "e": "Lack of sleep can affect your memory.",
+  "s": [
+   "influence",
+   "impact"
+  ]
+ },
+ {
+  "w": "aggregate",
+  "p": "noun",
+  "d": "a total made from many smaller parts",
+  "e": "The aggregate of all test scores was very high.",
+  "s": [
+   "total",
+   "sum"
+  ]
+ },
+ {
+  "w": "albeit",
+  "p": "conjunction",
+  "d": "although; even though",
+  "e": "The plan worked, albeit slowly.",
+  "s": [
+   "although",
+   "though"
+  ]
+ },
+ {
+  "w": "allocate",
+  "p": "verb",
+  "d": "to give a share of something for a purpose",
+  "e": "The college allocated more money to the library this year.",
+  "s": [
+   "assign",
+   "distribute"
+  ]
+ },
+ {
+  "w": "alter",
+  "p": "verb",
+  "d": "to change something, usually a little",
+  "e": "The designer altered the plan to save space.",
+  "s": [
+   "change",
+   "modify"
+  ]
+ },
+ {
+  "w": "alternative",
+  "p": "noun",
+  "d": "another choice that you can take",
+  "e": "Solar power is an alternative to coal.",
+  "s": [
+   "option",
+   "substitute"
+  ]
+ },
+ {
+  "w": "ambiguous",
+  "p": "adjective",
+  "d": "having more than one possible meaning",
+  "e": "The question was ambiguous, so students gave different answers.",
+  "s": [
+   "unclear",
+   "vague"
+  ]
+ },
+ {
+  "w": "analogy",
+  "p": "noun",
+  "d": "a comparison that shows how two things are alike",
+  "e": "The teacher used an analogy between the heart and a pump.",
+  "s": [
+   "comparison",
+   "parallel"
+  ]
+ },
+ {
+  "w": "analyze",
+  "p": "verb",
+  "d": "to study something carefully to understand it",
+  "e": "Researchers analyzed the data from the survey.",
+  "s": [
+   "examine",
+   "study"
+  ]
+ },
+ {
+  "w": "anticipate",
+  "p": "verb",
+  "d": "to expect something and prepare for it",
+  "e": "We anticipate heavy traffic on Friday.",
+  "s": [
+   "expect",
+   "predict"
+  ]
+ },
+ {
+  "w": "apparent",
+  "p": "adjective",
+  "d": "clear or easy to see; seeming to be true",
+  "e": "It was apparent that the student had not studied.",
+  "s": [
+   "obvious",
+   "evident"
+  ]
+ },
+ {
+  "w": "append",
+  "p": "verb",
+  "d": "to add something at the end of a text",
+  "e": "The author appended a list of sources to the report.",
+  "s": [
+   "add",
+   "attach"
+  ]
+ },
+ {
+  "w": "approach",
+  "p": "noun",
+  "d": "a way of dealing with something",
+  "e": "Her approach to learning is slow but careful.",
+  "s": [
+   "method",
+   "strategy"
+  ]
+ },
+ {
+  "w": "appropriate",
+  "p": "adjective",
+  "d": "right or suitable for a situation",
+  "e": "Formal clothes are appropriate for an interview.",
+  "s": [
+   "suitable",
+   "proper"
+  ]
+ },
+ {
+  "w": "approximate",
+  "p": "adjective",
+  "d": "close to the real number but not exact",
+  "e": "The approximate cost of the trip is five hundred dollars.",
+  "s": [
+   "rough",
+   "estimated"
+  ]
+ },
+ {
+  "w": "arbitrary",
+  "p": "adjective",
+  "d": "decided without a clear reason or rule",
+  "e": "The teacher's grading seemed arbitrary to the class.",
+  "s": [
+   "random",
+   "unreasoned"
+  ]
+ },
+ {
+  "w": "aspect",
+  "p": "noun",
+  "d": "one part or feature of something",
+  "e": "Cost is an important aspect of the decision.",
+  "s": [
+   "feature",
+   "element"
+  ]
+ },
+ {
+  "w": "assess",
+  "p": "verb",
+  "d": "to judge the quality or amount of something",
+  "e": "Teachers assess students with tests and projects.",
+  "s": [
+   "evaluate",
+   "judge"
+  ]
+ },
+ {
+  "w": "assume",
+  "p": "verb",
+  "d": "to think something is true without proof",
+  "e": "I assumed the library would be open on Sunday.",
+  "s": [
+   "presume",
+   "suppose"
+  ]
+ },
+ {
+  "w": "attain",
+  "p": "verb",
+  "d": "to succeed in getting something, often with effort",
+  "e": "She attained her goal of finishing the degree early.",
+  "s": [
+   "achieve",
+   "reach"
+  ]
+ },
+ {
+  "w": "attribute",
+  "p": "verb",
+  "d": "to say that something is caused by or belongs to someone",
+  "e": "Scientists attribute the change to warmer oceans.",
+  "s": [
+   "credit",
+   "ascribe"
+  ]
+ },
+ {
+  "w": "authentic",
+  "p": "adjective",
+  "d": "real and not copied or false",
+  "e": "The museum has an authentic Roman coin.",
+  "s": [
+   "genuine",
+   "real"
+  ]
+ },
+ {
+  "w": "automate",
+  "p": "verb",
+  "d": "to make a process work by machine, without people",
+  "e": "The factory automated its packing process.",
+  "s": [
+   "mechanize",
+   "computerize"
+  ]
+ },
+ {
+  "w": "available",
+  "p": "adjective",
+  "d": "able to be used or obtained",
+  "e": "Free tutoring is available in the student center.",
+  "s": [
+   "accessible",
+   "obtainable"
+  ]
+ },
+ {
+  "w": "back up",
+  "p": "phrasal verb",
+  "d": "to support a claim or to save a copy of files",
+  "e": "Back up your argument with evidence.",
+  "s": [
+   "support",
+   "save a copy"
+  ]
+ },
+ {
+  "w": "bias",
+  "p": "noun",
+  "d": "an unfair preference for or against something",
+  "e": "The study showed a bias toward younger people.",
+  "s": [
+   "prejudice",
+   "favoritism"
+  ]
+ },
+ {
+  "w": "bite off more than you can chew",
+  "p": "idiom",
+  "d": "to take on too much work",
+  "e": "She bit off more than she could chew with four jobs.",
+  "s": [
+   "overreach",
+   "overcommit"
+  ]
+ },
+ {
+  "w": "break down",
+  "p": "phrasal verb",
+  "d": "to stop working, or to divide into parts",
+  "e": "The copy machine broke down again.",
+  "s": [
+   "stop working",
+   "fail"
+  ]
+ },
+ {
+  "w": "bring up",
+  "p": "phrasal verb",
+  "d": "to start talking about a topic",
+  "e": "She brought up a good point in class.",
+  "s": [
+   "mention",
+   "raise"
+  ]
+ },
+ {
+  "w": "bulk",
+  "p": "noun",
+  "d": "the main or largest part of something",
+  "e": "The bulk of the budget goes to salaries.",
+  "s": [
+   "majority",
+   "mass"
+  ]
+ },
+ {
+  "w": "burn the midnight oil",
+  "p": "idiom",
+  "d": "to work late into the night",
+  "e": "She burned the midnight oil before the deadline.",
+  "s": [
+   "work late",
+   "stay up"
+  ]
+ },
+ {
+  "w": "by the book",
+  "p": "idiom",
+  "d": "following the rules exactly",
+  "e": "The librarian does everything by the book.",
+  "s": [
+   "strictly",
+   "according to rules"
+  ]
+ },
+ {
+  "w": "call it a day",
+  "p": "idiom",
+  "d": "to stop working for the day",
+  "e": "We've done enough; let's call it a day.",
+  "s": [
+   "stop",
+   "finish"
+  ]
+ },
+ {
+  "w": "call off",
+  "p": "phrasal verb",
+  "d": "to cancel something",
+  "e": "The professor called off the lecture because he was ill.",
+  "s": [
+   "cancel",
+   "drop"
+  ]
+ },
+ {
+  "w": "capacity",
+  "p": "noun",
+  "d": "the largest amount that something can hold or do",
+  "e": "The lecture hall has a capacity of two hundred.",
+  "s": [
+   "volume",
+   "limit"
+  ]
+ },
+ {
+  "w": "carry out",
+  "p": "phrasal verb",
+  "d": "to do or complete a task or plan",
+  "e": "The team carried out an experiment on sound.",
+  "s": [
+   "perform",
+   "conduct"
+  ]
+ },
+ {
+  "w": "catch up",
+  "p": "phrasal verb",
+  "d": "to reach the same level as others after being behind",
+  "e": "I need to catch up on the reading I missed.",
+  "s": [
+   "get even",
+   "make up"
+  ]
+ },
+ {
+  "w": "cease",
+  "p": "verb",
+  "d": "to stop happening",
+  "e": "The noise ceased when the machine was turned off.",
+  "s": [
+   "stop",
+   "end"
+  ]
+ },
+ {
+  "w": "challenge",
+  "p": "noun",
+  "d": "something difficult that tests your ability",
+  "e": "Learning a new language is a big challenge.",
+  "s": [
+   "difficulty",
+   "test"
+  ]
+ },
+ {
+  "w": "circumstance",
+  "p": "noun",
+  "d": "a condition or fact connected to an event",
+  "e": "Under no circumstances should you open the door.",
+  "s": [
+   "situation",
+   "condition"
+  ]
+ },
+ {
+  "w": "cite",
+  "p": "verb",
+  "d": "to mention a source as proof or support",
+  "e": "Students must cite every book they use in an essay.",
+  "s": [
+   "quote",
+   "reference"
+  ]
+ },
+ {
+  "w": "clarify",
+  "p": "verb",
+  "d": "to make something easier to understand",
+  "e": "Could you clarify what you mean by that term?",
+  "s": [
+   "explain",
+   "clear up"
+  ]
+ },
+ {
+  "w": "classify",
+  "p": "verb",
+  "d": "to put things into groups by type",
+  "e": "Biologists classify animals by their features.",
+  "s": [
+   "categorize",
+   "sort"
+  ]
+ },
+ {
+  "w": "coherent",
+  "p": "adjective",
+  "d": "logical and easy to follow",
+  "e": "She gave a coherent explanation of the theory.",
+  "s": [
+   "logical",
+   "clear"
+  ]
+ },
+ {
+  "w": "coincide",
+  "p": "verb",
+  "d": "to happen at the same time",
+  "e": "The exam coincides with a holiday this year.",
+  "s": [
+   "overlap",
+   "match"
+  ]
+ },
+ {
+  "w": "collapse",
+  "p": "verb",
+  "d": "to fall down suddenly or fail completely",
+  "e": "The old bridge collapsed after the storm.",
+  "s": [
+   "fall",
+   "fail"
+  ]
+ },
+ {
+  "w": "colleague",
+  "p": "noun",
+  "d": "a person you work with",
+  "e": "Her colleagues helped her prepare the presentation.",
+  "s": [
+   "coworker",
+   "associate"
+  ]
+ },
+ {
+  "w": "come up with",
+  "p": "phrasal verb",
+  "d": "to think of an idea or plan",
+  "e": "We need to come up with a topic for the project.",
+  "s": [
+   "think of",
+   "devise"
+  ]
+ },
+ {
+  "w": "commence",
+  "p": "verb",
+  "d": "to begin",
+  "e": "The ceremony will commence at noon.",
+  "s": [
+   "begin",
+   "start"
+  ]
+ },
+ {
+  "w": "commodity",
+  "p": "noun",
+  "d": "a product that can be bought and sold",
+  "e": "Oil is an important commodity in world trade.",
+  "s": [
+   "product",
+   "goods"
+  ]
+ },
+ {
+  "w": "compatible",
+  "p": "adjective",
+  "d": "able to work or exist together",
+  "e": "This software is compatible with most computers.",
+  "s": [
+   "suitable",
+   "harmonious"
+  ]
+ },
+ {
+  "w": "compensate",
+  "p": "verb",
+  "d": "to make up for a loss or give payment",
+  "e": "The company compensated workers for the extra hours.",
+  "s": [
+   "repay",
+   "make up for"
+  ]
+ },
+ {
+  "w": "compile",
+  "p": "verb",
+  "d": "to collect information and put it together",
+  "e": "He compiled a list of useful websites.",
+  "s": [
+   "gather",
+   "assemble"
+  ]
+ },
+ {
+  "w": "complement",
+  "p": "verb",
+  "d": "to add something that makes another thing better",
+  "e": "The wine complemented the meal well.",
+  "s": [
+   "complete",
+   "enhance"
+  ]
+ },
+ {
+  "w": "complex",
+  "p": "adjective",
+  "d": "made of many parts and hard to understand",
+  "e": "The immune system is very complex.",
+  "s": [
+   "complicated",
+   "intricate"
+  ]
+ },
+ {
+  "w": "component",
+  "p": "noun",
+  "d": "one part of a larger whole",
+  "e": "A battery is one component of the device.",
+  "s": [
+   "part",
+   "element"
+  ]
+ },
+ {
+  "w": "comprehensive",
+  "p": "adjective",
+  "d": "including everything that is needed",
+  "e": "The book gives a comprehensive history of the war.",
+  "s": [
+   "complete",
+   "thorough"
+  ]
+ },
+ {
+  "w": "comprise",
+  "p": "verb",
+  "d": "to be made up of certain parts",
+  "e": "The committee comprises ten members.",
+  "s": [
+   "include",
+   "consist of"
+  ]
+ },
+ {
+  "w": "conceive",
+  "p": "verb",
+  "d": "to form an idea or plan in the mind",
+  "e": "The architect conceived a design for a floating city.",
+  "s": [
+   "imagine",
+   "devise"
+  ]
+ },
+ {
+  "w": "concentrate",
+  "p": "verb",
+  "d": "to focus your attention on one thing",
+  "e": "It is hard to concentrate in a noisy room.",
+  "s": [
+   "focus",
+   "pay attention"
+  ]
+ },
+ {
+  "w": "concept",
+  "p": "noun",
+  "d": "an idea about how something works or what it is",
+  "e": "The concept of time is hard to explain.",
+  "s": [
+   "idea",
+   "notion"
+  ]
+ },
+ {
+  "w": "conclude",
+  "p": "verb",
+  "d": "to decide something after thinking about the facts",
+  "e": "The study concluded that exercise improves mood.",
+  "s": [
+   "decide",
+   "infer"
+  ]
+ },
+ {
+  "w": "concurrent",
+  "p": "adjective",
+  "d": "happening at the same time",
+  "e": "Two concurrent events were held in the hall.",
+  "s": [
+   "simultaneous",
+   "parallel"
+  ]
+ },
+ {
+  "w": "conduct",
+  "p": "verb",
+  "d": "to organize and carry out an activity",
+  "e": "The team conducted an experiment on plant growth.",
+  "s": [
+   "carry out",
+   "perform"
+  ]
+ },
+ {
+  "w": "confirm",
+  "p": "verb",
+  "d": "to show or say that something is true",
+  "e": "The results confirmed her hypothesis.",
+  "s": [
+   "verify",
+   "prove"
+  ]
+ },
+ {
+  "w": "conflict",
+  "p": "noun",
+  "d": "a serious disagreement or struggle",
+  "e": "The conflict between the two groups lasted for years.",
+  "s": [
+   "dispute",
+   "clash"
+  ]
+ },
+ {
+  "w": "consecutive",
+  "p": "adjective",
+  "d": "following one after another without a break",
+  "e": "It rained for five consecutive days.",
+  "s": [
+   "successive",
+   "sequential"
+  ]
+ },
+ {
+  "w": "consensus",
+  "p": "noun",
+  "d": "an agreement reached by a whole group",
+  "e": "The class reached a consensus on the project topic.",
+  "s": [
+   "agreement",
+   "accord"
+  ]
+ },
+ {
+  "w": "consequence",
+  "p": "noun",
+  "d": "a result of an action",
+  "e": "Pollution has serious consequences for health.",
+  "s": [
+   "result",
+   "outcome"
+  ]
+ },
+ {
+  "w": "conserve",
+  "p": "verb",
+  "d": "to protect something and avoid wasting it",
+  "e": "We must conserve water during the dry season.",
+  "s": [
+   "save",
+   "preserve"
+  ]
+ },
+ {
+  "w": "considerable",
+  "p": "adjective",
+  "d": "fairly large in size or amount",
+  "e": "The project took a considerable amount of time.",
+  "s": [
+   "substantial",
+   "significant"
+  ]
+ },
+ {
+  "w": "consist",
+  "p": "verb",
+  "d": "to be formed from certain parts",
+  "e": "The course consists of lectures and lab work.",
+  "s": [
+   "comprise",
+   "be made up"
+  ]
+ },
+ {
+  "w": "constant",
+  "p": "adjective",
+  "d": "staying the same; happening all the time",
+  "e": "The temperature in the lab is kept constant.",
+  "s": [
+   "steady",
+   "continuous"
+  ]
+ },
+ {
+  "w": "constitute",
+  "p": "verb",
+  "d": "to form or make up a whole",
+  "e": "Women constitute half of the research team.",
+  "s": [
+   "make up",
+   "form"
+  ]
+ },
+ {
+  "w": "constrain",
+  "p": "verb",
+  "d": "to limit or restrict something",
+  "e": "A small budget constrained the size of the study.",
+  "s": [
+   "limit",
+   "restrict"
+  ]
+ },
+ {
+  "w": "construct",
+  "p": "verb",
+  "d": "to build or put together",
+  "e": "Engineers constructed a bridge over the river.",
+  "s": [
+   "build",
+   "assemble"
+  ]
+ },
+ {
+  "w": "consume",
+  "p": "verb",
+  "d": "to use up or eat or drink",
+  "e": "Cars consume large amounts of fuel.",
+  "s": [
+   "use",
+   "eat"
+  ]
+ },
+ {
+  "w": "contemporary",
+  "p": "adjective",
+  "d": "belonging to the present time, or to the same time",
+  "e": "Contemporary artists often use digital tools.",
+  "s": [
+   "modern",
+   "current"
+  ]
+ },
+ {
+  "w": "context",
+  "p": "noun",
+  "d": "the situation or words around something that give it meaning",
+  "e": "You can guess the meaning of a word from its context.",
+  "s": [
+   "setting",
+   "background"
+  ]
+ },
+ {
+  "w": "contradict",
+  "p": "verb",
+  "d": "to say the opposite of something",
+  "e": "The new data contradict the old theory.",
+  "s": [
+   "oppose",
+   "deny"
+  ]
+ },
+ {
+  "w": "contrast",
+  "p": "noun",
+  "d": "a clear difference between two things",
+  "e": "There is a sharp contrast between city and village life.",
+  "s": [
+   "difference",
+   "distinction"
+  ]
+ },
+ {
+  "w": "contribute",
+  "p": "verb",
+  "d": "to give something to help a purpose",
+  "e": "Every member contributed ideas to the project.",
+  "s": [
+   "donate",
+   "add"
+  ]
+ },
+ {
+  "w": "controversial",
+  "p": "adjective",
+  "d": "causing strong disagreement among people",
+  "e": "The new law is controversial.",
+  "s": [
+   "disputed",
+   "debatable"
+  ]
+ },
+ {
+  "w": "convene",
+  "p": "verb",
+  "d": "to come together for a meeting",
+  "e": "The committee will convene on Monday.",
+  "s": [
+   "assemble",
+   "meet"
+  ]
+ },
+ {
+  "w": "convert",
+  "p": "verb",
+  "d": "to change from one form or use to another",
+  "e": "The plant converts sunlight into energy.",
+  "s": [
+   "change",
+   "transform"
+  ]
+ },
+ {
+  "w": "convince",
+  "p": "verb",
+  "d": "to make someone believe something",
+  "e": "She convinced me to join the study group.",
+  "s": [
+   "persuade",
+   "assure"
+  ]
+ },
+ {
+  "w": "cooperate",
+  "p": "verb",
+  "d": "to work together for a shared goal",
+  "e": "The two schools cooperated on a science fair.",
+  "s": [
+   "collaborate",
+   "work together"
+  ]
+ },
+ {
+  "w": "core",
+  "p": "noun",
+  "d": "the central or most important part",
+  "e": "Honesty is at the core of good science.",
+  "s": [
+   "center",
+   "heart"
+  ]
+ },
+ {
+  "w": "correlate",
+  "p": "verb",
+  "d": "to have a connection in which one thing changes with another",
+  "e": "Hours of study correlate with higher grades.",
+  "s": [
+   "connect",
+   "be linked"
+  ]
+ },
+ {
+  "w": "crucial",
+  "p": "adjective",
+  "d": "extremely important",
+  "e": "Sleep is crucial for memory.",
+  "s": [
+   "vital",
+   "essential"
+  ]
+ },
+ {
+  "w": "cumulative",
+  "p": "adjective",
+  "d": "growing larger by additions over time",
+  "e": "The cumulative effect of small changes was large.",
+  "s": [
+   "accumulated",
+   "increasing"
+  ]
+ },
+ {
+  "w": "curb",
+  "p": "verb",
+  "d": "to control or limit something bad",
+  "e": "The city wants to curb air pollution.",
+  "s": [
+   "restrain",
+   "limit"
+  ]
+ },
+ {
+  "w": "cut corners",
+  "p": "idiom",
+  "d": "to do something badly to save time or money",
+  "e": "Don't cut corners when you write your report.",
+  "s": [
+   "skimp",
+   "take shortcuts"
+  ]
+ },
+ {
+  "w": "cut down on",
+  "p": "phrasal verb",
+  "d": "to use or do less of something",
+  "e": "I'm trying to cut down on coffee.",
+  "s": [
+   "reduce",
+   "decrease"
+  ]
+ }
+]

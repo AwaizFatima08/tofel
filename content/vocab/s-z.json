@@ -1,0 +1,1042 @@
+[
+ {
+  "w": "sample",
+  "p": "noun",
+  "d": "a small part taken to show what the whole is like",
+  "e": "Researchers tested a sample of one hundred students.",
+  "s": [
+   "specimen",
+   "example"
+  ]
+ },
+ {
+  "w": "scarce",
+  "p": "adjective",
+  "d": "not enough in supply",
+  "e": "Fresh water is scarce in the desert.",
+  "s": [
+   "rare",
+   "limited"
+  ]
+ },
+ {
+  "w": "scenario",
+  "p": "noun",
+  "d": "a possible situation or sequence of events",
+  "e": "In the worst scenario, the crop would fail.",
+  "s": [
+   "situation",
+   "case"
+  ]
+ },
+ {
+  "w": "scope",
+  "p": "noun",
+  "d": "the range of things that something covers",
+  "e": "The scope of the study is limited to one city.",
+  "s": [
+   "range",
+   "extent"
+  ]
+ },
+ {
+  "w": "second thoughts",
+  "p": "idiom",
+  "d": "doubts about a decision already made",
+  "e": "I'm having second thoughts about my major.",
+  "s": [
+   "doubts",
+   "reservations"
+  ]
+ },
+ {
+  "w": "section",
+  "p": "noun",
+  "d": "one part of something larger",
+  "e": "Read the second section of the passage.",
+  "s": [
+   "part",
+   "portion"
+  ]
+ },
+ {
+  "w": "sector",
+  "p": "noun",
+  "d": "one part of the economy or society",
+  "e": "The technology sector is growing fast.",
+  "s": [
+   "branch",
+   "field"
+  ]
+ },
+ {
+  "w": "secure",
+  "p": "adjective",
+  "d": "safe, or firmly fixed",
+  "e": "Keep your passwords in a secure place.",
+  "s": [
+   "safe",
+   "protected"
+  ]
+ },
+ {
+  "w": "seek",
+  "p": "verb",
+  "d": "to look for or try to get",
+  "e": "Many students seek advice from their professors.",
+  "s": [
+   "look for",
+   "pursue"
+  ]
+ },
+ {
+  "w": "select",
+  "p": "verb",
+  "d": "to choose carefully",
+  "e": "Select the best answer from the list.",
+  "s": [
+   "choose",
+   "pick"
+  ]
+ },
+ {
+  "w": "sequence",
+  "p": "noun",
+  "d": "a set of things that follow in a certain order",
+  "e": "Follow the sequence of steps in the manual.",
+  "s": [
+   "order",
+   "series"
+  ]
+ },
+ {
+  "w": "set up",
+  "p": "phrasal verb",
+  "d": "to arrange or prepare something",
+  "e": "The students set up the equipment for the lab.",
+  "s": [
+   "arrange",
+   "establish"
+  ]
+ },
+ {
+  "w": "shift",
+  "p": "noun",
+  "d": "a change in position or direction",
+  "e": "There was a shift in public opinion.",
+  "s": [
+   "change",
+   "move"
+  ]
+ },
+ {
+  "w": "show up",
+  "p": "phrasal verb",
+  "d": "to arrive or appear",
+  "e": "Only five students showed up for the class.",
+  "s": [
+   "arrive",
+   "appear"
+  ]
+ },
+ {
+  "w": "sign up for",
+  "p": "phrasal verb",
+  "d": "to put your name on a list to join something",
+  "e": "I signed up for a study group on Tuesday.",
+  "s": [
+   "register for",
+   "enroll in"
+  ]
+ },
+ {
+  "w": "significant",
+  "p": "adjective",
+  "d": "large or important enough to notice",
+  "e": "The study found a significant increase in sales.",
+  "s": [
+   "important",
+   "notable"
+  ]
+ },
+ {
+  "w": "similar",
+  "p": "adjective",
+  "d": "alike but not the same",
+  "e": "The two apartments are similar in size.",
+  "s": [
+   "alike",
+   "comparable"
+  ]
+ },
+ {
+  "w": "simulate",
+  "p": "verb",
+  "d": "to copy the conditions of something for testing",
+  "e": "The program simulates a real flight.",
+  "s": [
+   "imitate",
+   "reproduce"
+  ]
+ },
+ {
+  "w": "site",
+  "p": "noun",
+  "d": "a place where something happens or is found",
+  "e": "Archaeologists explored the ancient site.",
+  "s": [
+   "location",
+   "place"
+  ]
+ },
+ {
+  "w": "so-called",
+  "p": "adjective",
+  "d": "named in a way that may be wrong or unusual",
+  "e": "The so-called experts disagreed.",
+  "s": [
+   "supposed",
+   "alleged"
+  ]
+ },
+ {
+  "w": "solitary",
+  "p": "adjective",
+  "d": "alone; done or living by oneself",
+  "e": "The leopard is a solitary animal.",
+  "s": [
+   "alone",
+   "lone"
+  ]
+ },
+ {
+  "w": "somewhat",
+  "p": "adverb",
+  "d": "to a small degree",
+  "e": "The test was somewhat harder than I expected.",
+  "s": [
+   "slightly",
+   "rather"
+  ]
+ },
+ {
+  "w": "sophisticated",
+  "p": "adjective",
+  "d": "complex and advanced",
+  "e": "The lab uses sophisticated equipment.",
+  "s": [
+   "advanced",
+   "refined"
+  ]
+ },
+ {
+  "w": "source",
+  "p": "noun",
+  "d": "a place or person from which something comes",
+  "e": "The river is the town's main source of water.",
+  "s": [
+   "origin",
+   "supplier"
+  ]
+ },
+ {
+  "w": "spatial",
+  "p": "adjective",
+  "d": "relating to space",
+  "e": "Architects need strong spatial skills.",
+  "s": [
+   "of space",
+   "dimensional"
+  ]
+ },
+ {
+  "w": "speak up",
+  "p": "phrasal verb",
+  "d": "to talk more loudly or share your opinion",
+  "e": "Please speak up; I can't hear you.",
+  "s": [
+   "talk louder",
+   "voice an opinion"
+  ]
+ },
+ {
+  "w": "specific",
+  "p": "adjective",
+  "d": "clear and exact; relating to one thing",
+  "e": "Please give a specific example.",
+  "s": [
+   "particular",
+   "precise"
+  ]
+ },
+ {
+  "w": "specify",
+  "p": "verb",
+  "d": "to state clearly and exactly",
+  "e": "The rules specify the length of the essay.",
+  "s": [
+   "state",
+   "define"
+  ]
+ },
+ {
+  "w": "sphere",
+  "p": "noun",
+  "d": "an area of activity or interest",
+  "e": "Music is outside my sphere of knowledge.",
+  "s": [
+   "area",
+   "field"
+  ]
+ },
+ {
+  "w": "stable",
+  "p": "adjective",
+  "d": "firm and not likely to change or fall",
+  "e": "The economy has been stable for years.",
+  "s": [
+   "steady",
+   "secure"
+  ]
+ },
+ {
+  "w": "statistic",
+  "p": "noun",
+  "d": "a number showing a fact from collected data",
+  "e": "One statistic shows that most people walk to work.",
+  "s": [
+   "figure",
+   "number"
+  ]
+ },
+ {
+  "w": "status",
+  "p": "noun",
+  "d": "a position or condition in relation to others",
+  "e": "The university has high status in the region.",
+  "s": [
+   "position",
+   "standing"
+  ]
+ },
+ {
+  "w": "stimulate",
+  "p": "verb",
+  "d": "to encourage activity or growth",
+  "e": "Reading stimulates the imagination.",
+  "s": [
+   "encourage",
+   "spur"
+  ]
+ },
+ {
+  "w": "strategy",
+  "p": "noun",
+  "d": "a plan to achieve a goal",
+  "e": "Her study strategy is to review a little each day.",
+  "s": [
+   "plan",
+   "approach"
+  ]
+ },
+ {
+  "w": "stress",
+  "p": "verb",
+  "d": "to give special attention to something",
+  "e": "The teacher stressed the importance of practice.",
+  "s": [
+   "emphasize",
+   "highlight"
+  ]
+ },
+ {
+  "w": "structure",
+  "p": "noun",
+  "d": "the way parts are arranged to form a whole",
+  "e": "The essay has a clear structure.",
+  "s": [
+   "arrangement",
+   "organization"
+  ]
+ },
+ {
+  "w": "submit",
+  "p": "verb",
+  "d": "to give something to be considered",
+  "e": "Submit your paper before the deadline.",
+  "s": [
+   "hand in",
+   "present"
+  ]
+ },
+ {
+  "w": "subsequent",
+  "p": "adjective",
+  "d": "coming after something",
+  "e": "Subsequent studies confirmed the result.",
+  "s": [
+   "following",
+   "later"
+  ]
+ },
+ {
+  "w": "subsidize",
+  "p": "verb",
+  "d": "to give money to help pay for something",
+  "e": "The government subsidizes public transport.",
+  "s": [
+   "fund",
+   "finance"
+  ]
+ },
+ {
+  "w": "substantial",
+  "p": "adjective",
+  "d": "large in amount or importance",
+  "e": "He made a substantial donation.",
+  "s": [
+   "considerable",
+   "large"
+  ]
+ },
+ {
+  "w": "substitute",
+  "p": "noun",
+  "d": "a thing used in place of another",
+  "e": "Honey can be a substitute for sugar.",
+  "s": [
+   "replacement",
+   "alternative"
+  ]
+ },
+ {
+  "w": "subtle",
+  "p": "adjective",
+  "d": "small and not easy to notice",
+  "e": "There is a subtle difference in color.",
+  "s": [
+   "slight",
+   "delicate"
+  ]
+ },
+ {
+  "w": "sufficient",
+  "p": "adjective",
+  "d": "enough for a need",
+  "e": "We have sufficient time to finish.",
+  "s": [
+   "enough",
+   "adequate"
+  ]
+ },
+ {
+  "w": "sum up",
+  "p": "phrasal verb",
+  "d": "to give the main points briefly",
+  "e": "The speaker summed up her talk in one sentence.",
+  "s": [
+   "summarize",
+   "recap"
+  ]
+ },
+ {
+  "w": "summarize",
+  "p": "verb",
+  "d": "to give the main points briefly",
+  "e": "Summarize the article in three sentences.",
+  "s": [
+   "sum up",
+   "outline"
+  ]
+ },
+ {
+  "w": "supplement",
+  "p": "noun",
+  "d": "something added to improve or complete another thing",
+  "e": "He takes a vitamin supplement.",
+  "s": [
+   "addition",
+   "extra"
+  ]
+ },
+ {
+  "w": "suppress",
+  "p": "verb",
+  "d": "to stop something from developing or showing",
+  "e": "The government suppressed the news.",
+  "s": [
+   "restrain",
+   "hold back"
+  ]
+ },
+ {
+  "w": "survey",
+  "p": "noun",
+  "d": "a study in which many people are asked questions",
+  "e": "A survey showed most students prefer morning classes.",
+  "s": [
+   "poll",
+   "study"
+  ]
+ },
+ {
+  "w": "survive",
+  "p": "verb",
+  "d": "to continue to live or exist",
+  "e": "Few plants survive in the desert.",
+  "s": [
+   "live",
+   "endure"
+  ]
+ },
+ {
+  "w": "suspend",
+  "p": "verb",
+  "d": "to stop for a time",
+  "e": "The school suspended classes because of snow.",
+  "s": [
+   "pause",
+   "delay"
+  ]
+ },
+ {
+  "w": "sustain",
+  "p": "verb",
+  "d": "to keep something going over time",
+  "e": "The island cannot sustain such a large population.",
+  "s": [
+   "maintain",
+   "support"
+  ]
+ },
+ {
+  "w": "swamped",
+  "p": "adjective",
+  "d": "having too much work to do",
+  "e": "I'm swamped with assignments this week.",
+  "s": [
+   "overloaded",
+   "busy"
+  ]
+ },
+ {
+  "w": "symbol",
+  "p": "noun",
+  "d": "a sign or object that stands for something else",
+  "e": "The olive branch is a symbol of peace.",
+  "s": [
+   "sign",
+   "emblem"
+  ]
+ },
+ {
+  "w": "tackle",
+  "p": "verb",
+  "d": "to try to deal with a problem",
+  "e": "The city is tackling the problem of traffic.",
+  "s": [
+   "address",
+   "handle"
+  ]
+ },
+ {
+  "w": "take on",
+  "p": "phrasal verb",
+  "d": "to accept a job or responsibility",
+  "e": "She took on a lot of extra work this semester.",
+  "s": [
+   "accept",
+   "undertake"
+  ]
+ },
+ {
+  "w": "take up",
+  "p": "phrasal verb",
+  "d": "to start a new hobby or activity",
+  "e": "He took up chess in college.",
+  "s": [
+   "begin",
+   "start"
+  ]
+ },
+ {
+  "w": "temporary",
+  "p": "adjective",
+  "d": "lasting for a short time only",
+  "e": "He found a temporary job for the summer.",
+  "s": [
+   "short-term",
+   "brief"
+  ]
+ },
+ {
+  "w": "tend",
+  "p": "verb",
+  "d": "to be likely to do or be something",
+  "e": "Students tend to study more before exams.",
+  "s": [
+   "be inclined",
+   "usually"
+  ]
+ },
+ {
+  "w": "tension",
+  "p": "noun",
+  "d": "a feeling of worry or a strained relationship",
+  "e": "There was tension between the two teams.",
+  "s": [
+   "strain",
+   "stress"
+  ]
+ },
+ {
+  "w": "terminate",
+  "p": "verb",
+  "d": "to end or bring to an end",
+  "e": "The company terminated the contract.",
+  "s": [
+   "end",
+   "finish"
+  ]
+ },
+ {
+  "w": "theme",
+  "p": "noun",
+  "d": "the main subject or idea of a text",
+  "e": "The theme of the novel is friendship.",
+  "s": [
+   "topic",
+   "subject"
+  ]
+ },
+ {
+  "w": "theory",
+  "p": "noun",
+  "d": "an idea or set of ideas that explains something",
+  "e": "Darwin's theory explains how species change.",
+  "s": [
+   "hypothesis",
+   "idea"
+  ]
+ },
+ {
+  "w": "thereby",
+  "p": "adverb",
+  "d": "by that means; as a result of that",
+  "e": "She saved energy, thereby lowering her bills.",
+  "s": [
+   "thus",
+   "hence"
+  ]
+ },
+ {
+  "w": "thesis",
+  "p": "noun",
+  "d": "the main argument of an essay, or a long academic paper",
+  "e": "The thesis of her essay is that sleep improves learning.",
+  "s": [
+   "argument",
+   "claim"
+  ]
+ },
+ {
+  "w": "threshold",
+  "p": "noun",
+  "d": "the point at which something starts or changes",
+  "e": "Noise above this threshold can harm hearing.",
+  "s": [
+   "limit",
+   "boundary"
+  ]
+ },
+ {
+  "w": "tolerate",
+  "p": "verb",
+  "d": "to accept something unpleasant without complaint",
+  "e": "Some plants cannot tolerate cold weather.",
+  "s": [
+   "endure",
+   "accept"
+  ]
+ },
+ {
+  "w": "topic",
+  "p": "noun",
+  "d": "a subject that is written or talked about",
+  "e": "Choose a topic for your presentation.",
+  "s": [
+   "subject",
+   "theme"
+  ]
+ },
+ {
+  "w": "touch base",
+  "p": "idiom",
+  "d": "to contact someone briefly to share news",
+  "e": "Let's touch base next week about the project.",
+  "s": [
+   "check in",
+   "contact"
+  ]
+ },
+ {
+  "w": "trace",
+  "p": "noun",
+  "d": "a small sign that something existed",
+  "e": "Scientists found traces of water on the planet.",
+  "s": [
+   "sign",
+   "hint"
+  ]
+ },
+ {
+  "w": "tradition",
+  "p": "noun",
+  "d": "a custom passed down over many years",
+  "e": "It is a tradition to share a meal at the festival.",
+  "s": [
+   "custom",
+   "practice"
+  ]
+ },
+ {
+  "w": "transform",
+  "p": "verb",
+  "d": "to change completely",
+  "e": "The internet transformed how we shop.",
+  "s": [
+   "change",
+   "convert"
+  ]
+ },
+ {
+  "w": "transition",
+  "p": "noun",
+  "d": "a change from one state to another",
+  "e": "The transition to online classes was quick.",
+  "s": [
+   "change",
+   "shift"
+  ]
+ },
+ {
+  "w": "transmit",
+  "p": "verb",
+  "d": "to send or pass from one place to another",
+  "e": "Mosquitoes can transmit disease.",
+  "s": [
+   "send",
+   "pass on"
+  ]
+ },
+ {
+  "w": "transparent",
+  "p": "adjective",
+  "d": "easy to see through, or open and honest",
+  "e": "The company should be transparent about its costs.",
+  "s": [
+   "clear",
+   "open"
+  ]
+ },
+ {
+  "w": "trend",
+  "p": "noun",
+  "d": "a general direction in which something changes",
+  "e": "There is a trend toward smaller families.",
+  "s": [
+   "tendency",
+   "pattern"
+  ]
+ },
+ {
+  "w": "trigger",
+  "p": "verb",
+  "d": "to cause something to start",
+  "e": "Dust can trigger an allergy.",
+  "s": [
+   "cause",
+   "set off"
+  ]
+ },
+ {
+  "w": "turn down",
+  "p": "phrasal verb",
+  "d": "to refuse an offer, or to lower the volume",
+  "e": "She turned down the job offer.",
+  "s": [
+   "refuse",
+   "decline"
+  ]
+ },
+ {
+  "w": "turn in",
+  "p": "phrasal verb",
+  "d": "to give work to a teacher or an authority",
+  "e": "I turned in my report this morning.",
+  "s": [
+   "hand in",
+   "submit"
+  ]
+ },
+ {
+  "w": "ultimate",
+  "p": "adjective",
+  "d": "final or most important",
+  "e": "Her ultimate goal is to become a doctor.",
+  "s": [
+   "final",
+   "eventual"
+  ]
+ },
+ {
+  "w": "under the weather",
+  "p": "idiom",
+  "d": "feeling slightly ill",
+  "e": "I'm feeling a bit under the weather today.",
+  "s": [
+   "sick",
+   "unwell"
+  ]
+ },
+ {
+  "w": "undergo",
+  "p": "verb",
+  "d": "to experience or go through something",
+  "e": "The patient will undergo surgery next week.",
+  "s": [
+   "experience",
+   "go through"
+  ]
+ },
+ {
+  "w": "underlying",
+  "p": "adjective",
+  "d": "basic but not obvious at first",
+  "e": "We need to find the underlying cause of the problem.",
+  "s": [
+   "basic",
+   "hidden"
+  ]
+ },
+ {
+  "w": "undertake",
+  "p": "verb",
+  "d": "to begin and take responsibility for a task",
+  "e": "The team undertook a study of local birds.",
+  "s": [
+   "begin",
+   "take on"
+  ]
+ },
+ {
+  "w": "uniform",
+  "p": "adjective",
+  "d": "the same in all parts or at all times",
+  "e": "The tiles were of uniform size.",
+  "s": [
+   "consistent",
+   "even"
+  ]
+ },
+ {
+  "w": "unique",
+  "p": "adjective",
+  "d": "the only one of its kind",
+  "e": "Each snowflake has a unique shape.",
+  "s": [
+   "one of a kind",
+   "distinctive"
+  ]
+ },
+ {
+  "w": "up in the air",
+  "p": "idiom",
+  "d": "not yet decided",
+  "e": "Our travel plans are still up in the air.",
+  "s": [
+   "undecided",
+   "uncertain"
+  ]
+ },
+ {
+  "w": "utilize",
+  "p": "verb",
+  "d": "to make use of something",
+  "e": "The school utilizes solar energy.",
+  "s": [
+   "use",
+   "employ"
+  ]
+ },
+ {
+  "w": "valid",
+  "p": "adjective",
+  "d": "based on truth or acceptable by rules",
+  "e": "You need a valid ticket to enter.",
+  "s": [
+   "legitimate",
+   "sound"
+  ]
+ },
+ {
+  "w": "vary",
+  "p": "verb",
+  "d": "to be different or to change",
+  "e": "Prices vary from store to store.",
+  "s": [
+   "differ",
+   "change"
+  ]
+ },
+ {
+  "w": "vast",
+  "p": "adjective",
+  "d": "extremely large",
+  "e": "A vast desert covers the north.",
+  "s": [
+   "huge",
+   "enormous"
+  ]
+ },
+ {
+  "w": "verify",
+  "p": "verb",
+  "d": "to check that something is true",
+  "e": "Please verify your email address.",
+  "s": [
+   "confirm",
+   "check"
+  ]
+ },
+ {
+  "w": "version",
+  "p": "noun",
+  "d": "a particular form of something",
+  "e": "The new version of the app is faster.",
+  "s": [
+   "edition",
+   "form"
+  ]
+ },
+ {
+  "w": "via",
+  "p": "preposition",
+  "d": "by way of; through",
+  "e": "She sent the file via email.",
+  "s": [
+   "through",
+   "by way of"
+  ]
+ },
+ {
+  "w": "viable",
+  "p": "adjective",
+  "d": "able to work or succeed",
+  "e": "The farm is not a viable business.",
+  "s": [
+   "workable",
+   "feasible"
+  ]
+ },
+ {
+  "w": "visible",
+  "p": "adjective",
+  "d": "able to be seen",
+  "e": "The mountains are visible from the campus.",
+  "s": [
+   "seen",
+   "noticeable"
+  ]
+ },
+ {
+  "w": "vision",
+  "p": "noun",
+  "d": "the ability to imagine the future, or the sense of sight",
+  "e": "The founder had a clear vision for the college.",
+  "s": [
+   "foresight",
+   "sight"
+  ]
+ },
+ {
+  "w": "vital",
+  "p": "adjective",
+  "d": "absolutely necessary",
+  "e": "Water is vital for life.",
+  "s": [
+   "essential",
+   "crucial"
+  ]
+ },
+ {
+  "w": "volume",
+  "p": "noun",
+  "d": "an amount of something, or a book in a series",
+  "e": "The volume of traffic increases at rush hour.",
+  "s": [
+   "amount",
+   "quantity"
+  ]
+ },
+ {
+  "w": "voluntary",
+  "p": "adjective",
+  "d": "done by choice, not required",
+  "e": "Attendance at the workshop is voluntary.",
+  "s": [
+   "optional",
+   "willing"
+  ]
+ },
+ {
+  "w": "widespread",
+  "p": "adjective",
+  "d": "found in many places or among many people",
+  "e": "There is widespread concern about pollution.",
+  "s": [
+   "common",
+   "extensive"
+  ]
+ },
+ {
+  "w": "withdraw",
+  "p": "verb",
+  "d": "to take back or remove",
+  "e": "She withdrew from the course after two weeks.",
+  "s": [
+   "remove",
+   "pull out"
+  ]
+ },
+ {
+  "w": "work out",
+  "p": "phrasal verb",
+  "d": "to solve a problem or to have a good result",
+  "e": "I hope everything works out with your schedule.",
+  "s": [
+   "solve",
+   "succeed"
+  ]
+ },
+ {
+  "w": "wrap up",
+  "p": "phrasal verb",
+  "d": "to finish something",
+  "e": "Let's wrap up the meeting in ten minutes.",
+  "s": [
+   "finish",
+   "conclude"
+  ]
+ },
+ {
+  "w": "yield",
+  "p": "verb",
+  "d": "to produce or give",
+  "e": "The experiment yielded surprising results.",
+  "s": [
+   "produce",
+   "give"
+  ]
+ }
+]

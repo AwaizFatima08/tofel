@@ -1,0 +1,842 @@
+[
+ {
+  "w": "paradigm",
+  "p": "noun",
+  "d": "a typical pattern or model of how something works",
+  "e": "The discovery created a new paradigm in physics.",
+  "s": [
+   "model",
+   "pattern"
+  ]
+ },
+ {
+  "w": "parallel",
+  "p": "adjective",
+  "d": "similar and happening at the same time, or side by side",
+  "e": "The two studies reached parallel conclusions.",
+  "s": [
+   "similar",
+   "matching"
+  ]
+ },
+ {
+  "w": "parameter",
+  "p": "noun",
+  "d": "a limit or fixed factor that defines a system",
+  "e": "The researchers set strict parameters for the test.",
+  "s": [
+   "limit",
+   "boundary"
+  ]
+ },
+ {
+  "w": "partial",
+  "p": "adjective",
+  "d": "not complete; only a part",
+  "e": "The company made a partial payment.",
+  "s": [
+   "incomplete",
+   "limited"
+  ]
+ },
+ {
+  "w": "participate",
+  "p": "verb",
+  "d": "to take part in an activity",
+  "e": "Everyone is encouraged to participate in the discussion.",
+  "s": [
+   "take part",
+   "join"
+  ]
+ },
+ {
+  "w": "perceive",
+  "p": "verb",
+  "d": "to notice or understand something in a certain way",
+  "e": "Many people perceive the city as unsafe.",
+  "s": [
+   "see",
+   "regard"
+  ]
+ },
+ {
+  "w": "persist",
+  "p": "verb",
+  "d": "to continue to exist or to keep trying",
+  "e": "The cough persisted for weeks.",
+  "s": [
+   "continue",
+   "last"
+  ]
+ },
+ {
+  "w": "perspective",
+  "p": "noun",
+  "d": "a particular way of thinking about something",
+  "e": "Travel gave him a new perspective on life.",
+  "s": [
+   "viewpoint",
+   "outlook"
+  ]
+ },
+ {
+  "w": "phase",
+  "p": "noun",
+  "d": "one stage in a process",
+  "e": "The first phase of the project ends in May.",
+  "s": [
+   "stage",
+   "step"
+  ]
+ },
+ {
+  "w": "phenomenon",
+  "p": "noun",
+  "d": "something that exists or happens and can be observed",
+  "e": "The northern lights are a natural phenomenon.",
+  "s": [
+   "event",
+   "occurrence"
+  ]
+ },
+ {
+  "w": "pick up",
+  "p": "phrasal verb",
+  "d": "to learn something easily or collect something",
+  "e": "She picked up Spanish while living abroad.",
+  "s": [
+   "learn",
+   "collect"
+  ]
+ },
+ {
+  "w": "point out",
+  "p": "phrasal verb",
+  "d": "to draw attention to something",
+  "e": "The tutor pointed out a mistake in my essay.",
+  "s": [
+   "indicate",
+   "note"
+  ]
+ },
+ {
+  "w": "policy",
+  "p": "noun",
+  "d": "a plan or rule of action adopted by a group",
+  "e": "The school has a strict policy on cheating.",
+  "s": [
+   "rule",
+   "plan"
+  ]
+ },
+ {
+  "w": "portion",
+  "p": "noun",
+  "d": "a part of a whole",
+  "e": "A large portion of the budget goes to food.",
+  "s": [
+   "part",
+   "share"
+  ]
+ },
+ {
+  "w": "pose",
+  "p": "verb",
+  "d": "to create a problem or danger",
+  "e": "Plastic waste poses a threat to sea life.",
+  "s": [
+   "present",
+   "create"
+  ]
+ },
+ {
+  "w": "potential",
+  "p": "adjective",
+  "d": "possible in the future",
+  "e": "She is a potential winner of the prize.",
+  "s": [
+   "possible",
+   "likely"
+  ]
+ },
+ {
+  "w": "practical",
+  "p": "adjective",
+  "d": "useful in real life rather than only in theory",
+  "e": "He gave practical advice on saving money.",
+  "s": [
+   "useful",
+   "realistic"
+  ]
+ },
+ {
+  "w": "precede",
+  "p": "verb",
+  "d": "to come before something",
+  "e": "A short talk preceded the main lecture.",
+  "s": [
+   "come before",
+   "lead up to"
+  ]
+ },
+ {
+  "w": "precise",
+  "p": "adjective",
+  "d": "exact and accurate",
+  "e": "The scientist took precise measurements.",
+  "s": [
+   "exact",
+   "accurate"
+  ]
+ },
+ {
+  "w": "predict",
+  "p": "verb",
+  "d": "to say what will happen in the future",
+  "e": "No one can predict the weather perfectly.",
+  "s": [
+   "forecast",
+   "foresee"
+  ]
+ },
+ {
+  "w": "predominant",
+  "p": "adjective",
+  "d": "most common or strongest",
+  "e": "Wheat was the predominant crop in the region.",
+  "s": [
+   "main",
+   "leading"
+  ]
+ },
+ {
+  "w": "preliminary",
+  "p": "adjective",
+  "d": "coming before the main part",
+  "e": "Preliminary results will be published next week.",
+  "s": [
+   "initial",
+   "early"
+  ]
+ },
+ {
+  "w": "presume",
+  "p": "verb",
+  "d": "to suppose that something is true",
+  "e": "I presume you have read the assignment.",
+  "s": [
+   "assume",
+   "suppose"
+  ]
+ },
+ {
+  "w": "prevalent",
+  "p": "adjective",
+  "d": "common at a particular time or place",
+  "e": "Colds are prevalent in winter.",
+  "s": [
+   "widespread",
+   "common"
+  ]
+ },
+ {
+  "w": "primary",
+  "p": "adjective",
+  "d": "first in importance or order",
+  "e": "The primary cause of the fire was a faulty wire.",
+  "s": [
+   "main",
+   "chief"
+  ]
+ },
+ {
+  "w": "principle",
+  "p": "noun",
+  "d": "a basic rule or belief",
+  "e": "He refused to lie on principle.",
+  "s": [
+   "rule",
+   "belief"
+  ]
+ },
+ {
+  "w": "prior",
+  "p": "adjective",
+  "d": "coming before in time",
+  "e": "Prior knowledge helps you understand new ideas.",
+  "s": [
+   "earlier",
+   "previous"
+  ]
+ },
+ {
+  "w": "priority",
+  "p": "noun",
+  "d": "something that is more important than other things",
+  "e": "Safety is our top priority.",
+  "s": [
+   "first concern",
+   "precedence"
+  ]
+ },
+ {
+  "w": "proceed",
+  "p": "verb",
+  "d": "to continue or go forward",
+  "e": "After the break, the class proceeded to the next topic.",
+  "s": [
+   "continue",
+   "go on"
+  ]
+ },
+ {
+  "w": "process",
+  "p": "noun",
+  "d": "a series of steps that lead to a result",
+  "e": "Making cheese is a slow process.",
+  "s": [
+   "procedure",
+   "method"
+  ]
+ },
+ {
+  "w": "profound",
+  "p": "adjective",
+  "d": "very deep or strong",
+  "e": "The invention had a profound effect on society.",
+  "s": [
+   "deep",
+   "major"
+  ]
+ },
+ {
+  "w": "prohibit",
+  "p": "verb",
+  "d": "to officially forbid",
+  "e": "Smoking is prohibited in the building.",
+  "s": [
+   "forbid",
+   "ban"
+  ]
+ },
+ {
+  "w": "project",
+  "p": "verb",
+  "d": "to estimate a future amount from present data",
+  "e": "Experts project that the population will double.",
+  "s": [
+   "forecast",
+   "estimate"
+  ]
+ },
+ {
+  "w": "promote",
+  "p": "verb",
+  "d": "to support or encourage something",
+  "e": "The campaign promotes healthy eating.",
+  "s": [
+   "encourage",
+   "advance"
+  ]
+ },
+ {
+  "w": "prompt",
+  "p": "adjective",
+  "d": "done quickly and without delay",
+  "e": "We expect a prompt reply.",
+  "s": [
+   "quick",
+   "immediate"
+  ]
+ },
+ {
+  "w": "proportion",
+  "p": "noun",
+  "d": "a part in relation to the whole",
+  "e": "A large proportion of students work part time.",
+  "s": [
+   "share",
+   "percentage"
+  ]
+ },
+ {
+  "w": "prospect",
+  "p": "noun",
+  "d": "a possibility of something happening",
+  "e": "There is little prospect of rain this week.",
+  "s": [
+   "possibility",
+   "chance"
+  ]
+ },
+ {
+  "w": "protocol",
+  "p": "noun",
+  "d": "an official set of rules for how to act",
+  "e": "Follow the safety protocol in the lab.",
+  "s": [
+   "procedure",
+   "code"
+  ]
+ },
+ {
+  "w": "psychology",
+  "p": "noun",
+  "d": "the study of the mind and behavior",
+  "e": "She studies psychology at the university.",
+  "s": [
+   "behavioral science",
+   "mind study"
+  ]
+ },
+ {
+  "w": "pull an all-nighter",
+  "p": "idiom",
+  "d": "to stay awake all night to study or work",
+  "e": "He pulled an all-nighter to finish his paper.",
+  "s": [
+   "stay up all night",
+   "cram"
+  ]
+ },
+ {
+  "w": "pursue",
+  "p": "verb",
+  "d": "to follow or work toward something",
+  "e": "He wants to pursue a career in medicine.",
+  "s": [
+   "seek",
+   "follow"
+  ]
+ },
+ {
+  "w": "put off",
+  "p": "phrasal verb",
+  "d": "to delay something until later",
+  "e": "Don't put off writing your essay until the last day.",
+  "s": [
+   "delay",
+   "postpone"
+  ]
+ },
+ {
+  "w": "qualify",
+  "p": "verb",
+  "d": "to meet the conditions needed for something",
+  "e": "You must pass the test to qualify for the course.",
+  "s": [
+   "be eligible",
+   "meet requirements"
+  ]
+ },
+ {
+  "w": "quote",
+  "p": "verb",
+  "d": "to repeat the exact words of someone",
+  "e": "The essay quotes a famous scientist.",
+  "s": [
+   "cite",
+   "repeat"
+  ]
+ },
+ {
+  "w": "random",
+  "p": "adjective",
+  "d": "done without a plan or pattern",
+  "e": "Participants were chosen at random.",
+  "s": [
+   "arbitrary",
+   "haphazard"
+  ]
+ },
+ {
+  "w": "range",
+  "p": "noun",
+  "d": "the limits between which something varies",
+  "e": "The shop sells a wide range of books.",
+  "s": [
+   "variety",
+   "scope"
+  ]
+ },
+ {
+  "w": "rational",
+  "p": "adjective",
+  "d": "based on reason rather than emotion",
+  "e": "A rational person weighs the facts first.",
+  "s": [
+   "logical",
+   "reasonable"
+  ]
+ },
+ {
+  "w": "react",
+  "p": "verb",
+  "d": "to act in response to something",
+  "e": "How did the crowd react to the news?",
+  "s": [
+   "respond",
+   "reply"
+  ]
+ },
+ {
+  "w": "recall",
+  "p": "verb",
+  "d": "to remember something",
+  "e": "I can't recall her name.",
+  "s": [
+   "remember",
+   "recollect"
+  ]
+ },
+ {
+  "w": "reduce",
+  "p": "verb",
+  "d": "to make smaller or less",
+  "e": "Recycling reduces the amount of waste.",
+  "s": [
+   "decrease",
+   "cut"
+  ]
+ },
+ {
+  "w": "refine",
+  "p": "verb",
+  "d": "to improve by making small changes",
+  "e": "The team refined the method over several years.",
+  "s": [
+   "improve",
+   "polish"
+  ]
+ },
+ {
+  "w": "reflect",
+  "p": "verb",
+  "d": "to show or think carefully about something",
+  "e": "The results reflect the changes in diet.",
+  "s": [
+   "show",
+   "mirror"
+  ]
+ },
+ {
+  "w": "reform",
+  "p": "noun",
+  "d": "a change made to improve a system",
+  "e": "Education reform began last year.",
+  "s": [
+   "improvement",
+   "change"
+  ]
+ },
+ {
+  "w": "region",
+  "p": "noun",
+  "d": "a large area of land",
+  "e": "The region is known for its dry climate.",
+  "s": [
+   "area",
+   "district"
+  ]
+ },
+ {
+  "w": "regulate",
+  "p": "verb",
+  "d": "to control with rules or by adjusting",
+  "e": "Laws regulate how food is sold.",
+  "s": [
+   "control",
+   "govern"
+  ]
+ },
+ {
+  "w": "reinforce",
+  "p": "verb",
+  "d": "to make stronger",
+  "e": "The results reinforce the earlier findings.",
+  "s": [
+   "strengthen",
+   "support"
+  ]
+ },
+ {
+  "w": "reject",
+  "p": "verb",
+  "d": "to refuse to accept",
+  "e": "The committee rejected the proposal.",
+  "s": [
+   "refuse",
+   "decline"
+  ]
+ },
+ {
+  "w": "relevant",
+  "p": "adjective",
+  "d": "connected to the subject being discussed",
+  "e": "Only include facts that are relevant to the topic.",
+  "s": [
+   "related",
+   "applicable"
+  ]
+ },
+ {
+  "w": "reliable",
+  "p": "adjective",
+  "d": "able to be trusted",
+  "e": "Choose reliable sources for your essay.",
+  "s": [
+   "trustworthy",
+   "dependable"
+  ]
+ },
+ {
+  "w": "reluctant",
+  "p": "adjective",
+  "d": "not willing to do something",
+  "e": "He was reluctant to speak in class.",
+  "s": [
+   "unwilling",
+   "hesitant"
+  ]
+ },
+ {
+  "w": "rely",
+  "p": "verb",
+  "d": "to depend on someone or something",
+  "e": "Farmers rely on rain for their crops.",
+  "s": [
+   "depend",
+   "count on"
+  ]
+ },
+ {
+  "w": "remove",
+  "p": "verb",
+  "d": "to take away",
+  "e": "Please remove your bags from the desk.",
+  "s": [
+   "take away",
+   "delete"
+  ]
+ },
+ {
+  "w": "render",
+  "p": "verb",
+  "d": "to cause to become",
+  "e": "The storm rendered the road impassable.",
+  "s": [
+   "make",
+   "cause to be"
+  ]
+ },
+ {
+  "w": "replicate",
+  "p": "verb",
+  "d": "to repeat or copy exactly",
+  "e": "Other labs could not replicate the result.",
+  "s": [
+   "repeat",
+   "copy"
+  ]
+ },
+ {
+  "w": "represent",
+  "p": "verb",
+  "d": "to stand for or be a symbol of something",
+  "e": "The dove represents peace.",
+  "s": [
+   "symbolize",
+   "stand for"
+  ]
+ },
+ {
+  "w": "require",
+  "p": "verb",
+  "d": "to need, or to make necessary",
+  "e": "The course requires a final paper.",
+  "s": [
+   "need",
+   "demand"
+  ]
+ },
+ {
+  "w": "resemble",
+  "p": "verb",
+  "d": "to look like or be similar to",
+  "e": "The young bird resembles its mother.",
+  "s": [
+   "look like",
+   "be similar to"
+  ]
+ },
+ {
+  "w": "reside",
+  "p": "verb",
+  "d": "to live in a place",
+  "e": "She resides in a small town near the coast.",
+  "s": [
+   "live",
+   "dwell"
+  ]
+ },
+ {
+  "w": "resolve",
+  "p": "verb",
+  "d": "to find a solution to a problem",
+  "e": "The two sides resolved their differences.",
+  "s": [
+   "settle",
+   "solve"
+  ]
+ },
+ {
+  "w": "resource",
+  "p": "noun",
+  "d": "a supply of something useful",
+  "e": "Water is a valuable resource.",
+  "s": [
+   "supply",
+   "asset"
+  ]
+ },
+ {
+  "w": "respond",
+  "p": "verb",
+  "d": "to answer or react",
+  "e": "Please respond to the email by Friday.",
+  "s": [
+   "reply",
+   "react"
+  ]
+ },
+ {
+  "w": "restore",
+  "p": "verb",
+  "d": "to bring back to a former condition",
+  "e": "Workers restored the old theater.",
+  "s": [
+   "repair",
+   "renew"
+  ]
+ },
+ {
+  "w": "restrict",
+  "p": "verb",
+  "d": "to limit the size, amount, or range",
+  "e": "The park restricts the number of visitors.",
+  "s": [
+   "limit",
+   "confine"
+  ]
+ },
+ {
+  "w": "retain",
+  "p": "verb",
+  "d": "to keep or continue to have",
+  "e": "Good notes help you retain information.",
+  "s": [
+   "keep",
+   "hold"
+  ]
+ },
+ {
+  "w": "reveal",
+  "p": "verb",
+  "d": "to make something known or visible",
+  "e": "The tests revealed an unexpected problem.",
+  "s": [
+   "show",
+   "disclose"
+  ]
+ },
+ {
+  "w": "reverse",
+  "p": "verb",
+  "d": "to change to the opposite",
+  "e": "The court reversed its earlier decision.",
+  "s": [
+   "undo",
+   "overturn"
+  ]
+ },
+ {
+  "w": "revise",
+  "p": "verb",
+  "d": "to change something to improve it",
+  "e": "Please revise your essay before you submit it.",
+  "s": [
+   "edit",
+   "amend"
+  ]
+ },
+ {
+  "w": "revolution",
+  "p": "noun",
+  "d": "a major, sudden change",
+  "e": "The internet caused a revolution in communication.",
+  "s": [
+   "upheaval",
+   "transformation"
+  ]
+ },
+ {
+  "w": "rigid",
+  "p": "adjective",
+  "d": "stiff and not easily changed",
+  "e": "The school has rigid rules about uniforms.",
+  "s": [
+   "stiff",
+   "strict"
+  ]
+ },
+ {
+  "w": "role",
+  "p": "noun",
+  "d": "the part someone or something plays",
+  "e": "Bees play an important role in farming.",
+  "s": [
+   "part",
+   "function"
+  ]
+ },
+ {
+  "w": "routine",
+  "p": "noun",
+  "d": "a regular way of doing things",
+  "e": "Her morning routine includes a long walk.",
+  "s": [
+   "habit",
+   "schedule"
+  ]
+ },
+ {
+  "w": "rule out",
+  "p": "phrasal verb",
+  "d": "to decide that something is not possible",
+  "e": "The test results ruled out a simple explanation.",
+  "s": [
+   "exclude",
+   "eliminate"
+  ]
+ },
+ {
+  "w": "run into",
+  "p": "phrasal verb",
+  "d": "to meet someone by chance",
+  "e": "I ran into my old teacher at the bookstore.",
+  "s": [
+   "bump into",
+   "encounter"
+  ]
+ },
+ {
+  "w": "run out of",
+  "p": "phrasal verb",
+  "d": "to use all of something",
+  "e": "The printer ran out of paper.",
+  "s": [
+   "use up",
+   "exhaust"
+  ]
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "w": "identify",
+  "p": "verb",
+  "d": "to recognize and name something",
+  "e": "Can you identify the main idea of the passage?",
+  "s": [
+   "recognize",
+   "pinpoint"
+  ]
+ },
+ {
+  "w": "illustrate",
+  "p": "verb",
+  "d": "to explain or show with examples or pictures",
+  "e": "The graph illustrates the rise in prices.",
+  "s": [
+   "show",
+   "demonstrate"
+  ]
+ },
+ {
+  "w": "imply",
+  "p": "verb",
+  "d": "to suggest something without saying it directly",
+  "e": "His silence implied that he disagreed.",
+  "s": [
+   "suggest",
+   "hint"
+  ]
+ },
+ {
+  "w": "in a nutshell",
+  "p": "idiom",
+  "d": "in a few words",
+  "e": "In a nutshell, the plan failed.",
+  "s": [
+   "briefly",
+   "in short"
+  ]
+ },
+ {
+  "w": "in the long run",
+  "p": "idiom",
+  "d": "over a long period of time",
+  "e": "Saving money pays off in the long run.",
+  "s": [
+   "eventually",
+   "over time"
+  ]
+ },
+ {
+  "w": "incentive",
+  "p": "noun",
+  "d": "something that encourages a person to act",
+  "e": "Lower prices are an incentive to buy.",
+  "s": [
+   "motivation",
+   "reward"
+  ]
+ },
+ {
+  "w": "incidence",
+  "p": "noun",
+  "d": "how often something happens",
+  "e": "The incidence of the disease has dropped.",
+  "s": [
+   "rate",
+   "frequency"
+  ]
+ },
+ {
+  "w": "incorporate",
+  "p": "verb",
+  "d": "to include as part of a whole",
+  "e": "The school incorporated music into its math lessons.",
+  "s": [
+   "include",
+   "integrate"
+  ]
+ },
+ {
+  "w": "indicate",
+  "p": "verb",
+  "d": "to show or point to something",
+  "e": "Dark clouds indicate that rain is coming.",
+  "s": [
+   "show",
+   "signal"
+  ]
+ },
+ {
+  "w": "inevitable",
+  "p": "adjective",
+  "d": "certain to happen and impossible to avoid",
+  "e": "Change is inevitable in any city.",
+  "s": [
+   "unavoidable",
+   "certain"
+  ]
+ },
+ {
+  "w": "infer",
+  "p": "verb",
+  "d": "to reach a conclusion from evidence",
+  "e": "From her tone, I inferred that she was upset.",
+  "s": [
+   "deduce",
+   "conclude"
+  ]
+ },
+ {
+  "w": "infrastructure",
+  "p": "noun",
+  "d": "basic systems such as roads, power, and water",
+  "e": "Good infrastructure helps a country grow.",
+  "s": [
+   "facilities",
+   "framework"
+  ]
+ },
+ {
+  "w": "inherent",
+  "p": "adjective",
+  "d": "existing as a natural, basic part of something",
+  "e": "Risk is inherent in any investment.",
+  "s": [
+   "built-in",
+   "intrinsic"
+  ]
+ },
+ {
+  "w": "inhibit",
+  "p": "verb",
+  "d": "to slow down or prevent",
+  "e": "Fear can inhibit creative thinking.",
+  "s": [
+   "hinder",
+   "restrain"
+  ]
+ },
+ {
+  "w": "initial",
+  "p": "adjective",
+  "d": "happening at the beginning",
+  "e": "The initial results were very promising.",
+  "s": [
+   "first",
+   "early"
+  ]
+ },
+ {
+  "w": "initiate",
+  "p": "verb",
+  "d": "to start something",
+  "e": "The city initiated a recycling program.",
+  "s": [
+   "begin",
+   "launch"
+  ]
+ },
+ {
+  "w": "innovation",
+  "p": "noun",
+  "d": "a new idea, method, or device",
+  "e": "The phone was a major innovation.",
+  "s": [
+   "invention",
+   "novelty"
+  ]
+ },
+ {
+  "w": "input",
+  "p": "noun",
+  "d": "information or ideas given to help a process",
+  "e": "We welcome your input on the new design.",
+  "s": [
+   "contribution",
+   "feedback"
+  ]
+ },
+ {
+  "w": "insight",
+  "p": "noun",
+  "d": "a deep understanding of something",
+  "e": "The book gives insight into how children learn.",
+  "s": [
+   "understanding",
+   "awareness"
+  ]
+ },
+ {
+  "w": "inspect",
+  "p": "verb",
+  "d": "to look at something closely to check it",
+  "e": "Officials inspect the restaurant every year.",
+  "s": [
+   "examine",
+   "check"
+  ]
+ },
+ {
+  "w": "instance",
+  "p": "noun",
+  "d": "an example or single case of something",
+  "e": "In this instance, the rule did not apply.",
+  "s": [
+   "example",
+   "case"
+  ]
+ },
+ {
+  "w": "institute",
+  "p": "verb",
+  "d": "to set up or start a system or rule",
+  "e": "The college instituted a new attendance policy.",
+  "s": [
+   "establish",
+   "introduce"
+  ]
+ },
+ {
+  "w": "integrate",
+  "p": "verb",
+  "d": "to combine parts into a whole",
+  "e": "The course integrates reading and writing.",
+  "s": [
+   "combine",
+   "merge"
+  ]
+ },
+ {
+  "w": "integrity",
+  "p": "noun",
+  "d": "the quality of being honest and having strong principles",
+  "e": "The judge was respected for her integrity.",
+  "s": [
+   "honesty",
+   "honor"
+  ]
+ },
+ {
+  "w": "intense",
+  "p": "adjective",
+  "d": "very strong or extreme",
+  "e": "The athletes did intense training for months.",
+  "s": [
+   "extreme",
+   "strong"
+  ]
+ },
+ {
+  "w": "interact",
+  "p": "verb",
+  "d": "to communicate or act with others",
+  "e": "Students interact in small discussion groups.",
+  "s": [
+   "communicate",
+   "engage"
+  ]
+ },
+ {
+  "w": "interpret",
+  "p": "verb",
+  "d": "to explain the meaning of something",
+  "e": "Scientists interpret the data in different ways.",
+  "s": [
+   "explain",
+   "understand"
+  ]
+ },
+ {
+  "w": "interval",
+  "p": "noun",
+  "d": "a period of time or space between two things",
+  "e": "There was a short interval between the two lectures.",
+  "s": [
+   "gap",
+   "break"
+  ]
+ },
+ {
+  "w": "intervene",
+  "p": "verb",
+  "d": "to step into a situation to change it",
+  "e": "The teacher intervened to stop the argument.",
+  "s": [
+   "step in",
+   "interfere"
+  ]
+ },
+ {
+  "w": "intrinsic",
+  "p": "adjective",
+  "d": "belonging naturally to something",
+  "e": "The painting has intrinsic beauty, apart from its price.",
+  "s": [
+   "inherent",
+   "natural"
+  ]
+ },
+ {
+  "w": "invest",
+  "p": "verb",
+  "d": "to put money, time, or effort into something for later benefit",
+  "e": "The university invested in new laboratories.",
+  "s": [
+   "fund",
+   "spend"
+  ]
+ },
+ {
+  "w": "investigate",
+  "p": "verb",
+  "d": "to try to find out the facts about something",
+  "e": "Police are investigating the cause of the fire.",
+  "s": [
+   "examine",
+   "explore"
+  ]
+ },
+ {
+  "w": "involve",
+  "p": "verb",
+  "d": "to include as a necessary part",
+  "e": "The job involves a lot of travel.",
+  "s": [
+   "include",
+   "require"
+  ]
+ },
+ {
+  "w": "isolate",
+  "p": "verb",
+  "d": "to separate from others",
+  "e": "Scientists isolated the cause of the disease.",
+  "s": [
+   "separate",
+   "detach"
+  ]
+ },
+ {
+  "w": "issue",
+  "p": "noun",
+  "d": "an important topic or problem",
+  "e": "Climate change is a major issue today.",
+  "s": [
+   "matter",
+   "problem"
+  ]
+ },
+ {
+  "w": "justify",
+  "p": "verb",
+  "d": "to give a good reason for something",
+  "e": "How can you justify spending so much?",
+  "s": [
+   "defend",
+   "explain"
+  ]
+ },
+ {
+  "w": "keep up with",
+  "p": "phrasal verb",
+  "d": "to stay at the same level or pace as others",
+  "e": "It is hard to keep up with all the reading.",
+  "s": [
+   "stay level with",
+   "match"
+  ]
+ },
+ {
+  "w": "label",
+  "p": "verb",
+  "d": "to put a name or description on something",
+  "e": "Please label each sample clearly.",
+  "s": [
+   "name",
+   "mark"
+  ]
+ },
+ {
+  "w": "labor",
+  "p": "noun",
+  "d": "work, especially hard physical work",
+  "e": "Manual labor was cheap in the past.",
+  "s": [
+   "work",
+   "toil"
+  ]
+ },
+ {
+  "w": "landscape",
+  "p": "noun",
+  "d": "the natural features of an area of land",
+  "e": "The landscape changes from desert to forest.",
+  "s": [
+   "scenery",
+   "terrain"
+  ]
+ },
+ {
+  "w": "lateral",
+  "p": "adjective",
+  "d": "at, to, or from the side",
+  "e": "The fish uses lateral movement to turn.",
+  "s": [
+   "sideways",
+   "side"
+  ]
+ },
+ {
+  "w": "layer",
+  "p": "noun",
+  "d": "a level of material over or under another",
+  "e": "The soil has several layers.",
+  "s": [
+   "level",
+   "stratum"
+  ]
+ },
+ {
+  "w": "legacy",
+  "p": "noun",
+  "d": "something handed down from the past",
+  "e": "The writer left a rich legacy of poems.",
+  "s": [
+   "heritage",
+   "inheritance"
+  ]
+ },
+ {
+  "w": "legitimate",
+  "p": "adjective",
+  "d": "allowed by law or based on good reasons",
+  "e": "She raised a legitimate concern about safety.",
+  "s": [
+   "valid",
+   "lawful"
+  ]
+ },
+ {
+  "w": "likewise",
+  "p": "adverb",
+  "d": "in the same way",
+  "e": "Read the first chapter and likewise the second.",
+  "s": [
+   "similarly",
+   "also"
+  ]
+ },
+ {
+  "w": "logic",
+  "p": "noun",
+  "d": "clear and sensible reasoning",
+  "e": "There is no logic in his argument.",
+  "s": [
+   "reasoning",
+   "sense"
+  ]
+ },
+ {
+  "w": "look forward to",
+  "p": "phrasal verb",
+  "d": "to feel happy about something that will happen",
+  "e": "I look forward to the field trip next week.",
+  "s": [
+   "anticipate",
+   "await"
+  ]
+ },
+ {
+  "w": "look into",
+  "p": "phrasal verb",
+  "d": "to investigate or find out about",
+  "e": "The office will look into the problem with your account.",
+  "s": [
+   "investigate",
+   "research"
+  ]
+ },
+ {
+  "w": "look up",
+  "p": "phrasal verb",
+  "d": "to search for information in a book or online",
+  "e": "Look up the word in the dictionary.",
+  "s": [
+   "search for",
+   "check"
+  ]
+ },
+ {
+  "w": "magnitude",
+  "p": "noun",
+  "d": "great size or importance",
+  "e": "The magnitude of the problem surprised everyone.",
+  "s": [
+   "size",
+   "scale"
+  ]
+ },
+ {
+  "w": "maintain",
+  "p": "verb",
+  "d": "to keep something in good condition or the same state",
+  "e": "Regular cleaning maintains the equipment.",
+  "s": [
+   "preserve",
+   "keep"
+  ]
+ },
+ {
+  "w": "make up for",
+  "p": "phrasal verb",
+  "d": "to do something that corrects a loss or mistake",
+  "e": "I'll work extra hours to make up for the missed class.",
+  "s": [
+   "compensate for",
+   "offset"
+  ]
+ },
+ {
+  "w": "margin",
+  "p": "noun",
+  "d": "an edge, or the amount by which something is won or lost",
+  "e": "She won by a narrow margin.",
+  "s": [
+   "edge",
+   "gap"
+  ]
+ },
+ {
+  "w": "mature",
+  "p": "adjective",
+  "d": "fully grown or developed",
+  "e": "A mature tree can be very tall.",
+  "s": [
+   "grown",
+   "developed"
+  ]
+ },
+ {
+  "w": "mechanism",
+  "p": "noun",
+  "d": "a system of parts working together, or a way something works",
+  "e": "The mechanism of the clock is very small.",
+  "s": [
+   "device",
+   "process"
+  ]
+ },
+ {
+  "w": "mediate",
+  "p": "verb",
+  "d": "to help two sides reach an agreement",
+  "e": "A neutral person mediated the dispute.",
+  "s": [
+   "negotiate",
+   "arbitrate"
+  ]
+ },
+ {
+  "w": "medium",
+  "p": "noun",
+  "d": "a way of communicating or a substance something travels through",
+  "e": "Television is a powerful medium.",
+  "s": [
+   "means",
+   "channel"
+  ]
+ },
+ {
+  "w": "mental",
+  "p": "adjective",
+  "d": "relating to the mind",
+  "e": "Exercise is good for mental health.",
+  "s": [
+   "intellectual",
+   "psychological"
+  ]
+ },
+ {
+  "w": "methodology",
+  "p": "noun",
+  "d": "the set of methods used in a study",
+  "e": "The paper explains its methodology in detail.",
+  "s": [
+   "method",
+   "system"
+  ]
+ },
+ {
+  "w": "migrate",
+  "p": "verb",
+  "d": "to move from one place to another for survival or work",
+  "e": "Many birds migrate south in winter.",
+  "s": [
+   "move",
+   "relocate"
+  ]
+ },
+ {
+  "w": "minimal",
+  "p": "adjective",
+  "d": "the smallest possible; very little",
+  "e": "The repairs caused minimal damage.",
+  "s": [
+   "least",
+   "slight"
+  ]
+ },
+ {
+  "w": "minimize",
+  "p": "verb",
+  "d": "to make as small as possible",
+  "e": "Good planning minimizes risk.",
+  "s": [
+   "reduce",
+   "decrease"
+  ]
+ },
+ {
+  "w": "minor",
+  "p": "adjective",
+  "d": "small or less important",
+  "e": "He made a few minor changes to the text.",
+  "s": [
+   "small",
+   "slight"
+  ]
+ },
+ {
+  "w": "modify",
+  "p": "verb",
+  "d": "to change something slightly",
+  "e": "We modified the recipe to use less sugar.",
+  "s": [
+   "adjust",
+   "alter"
+  ]
+ },
+ {
+  "w": "monitor",
+  "p": "verb",
+  "d": "to watch and check something over time",
+  "e": "Doctors monitor the patient's heart rate.",
+  "s": [
+   "observe",
+   "track"
+  ]
+ },
+ {
+  "w": "motivate",
+  "p": "verb",
+  "d": "to give someone a reason to act",
+  "e": "Good grades motivate her to study harder.",
+  "s": [
+   "inspire",
+   "encourage"
+  ]
+ },
+ {
+  "w": "mutual",
+  "p": "adjective",
+  "d": "felt or done by two or more sides equally",
+  "e": "They have a mutual respect for each other.",
+  "s": [
+   "shared",
+   "common"
+  ]
+ },
+ {
+  "w": "negate",
+  "p": "verb",
+  "d": "to cancel or make useless",
+  "e": "Poor timing negated all their hard work.",
+  "s": [
+   "cancel",
+   "nullify"
+  ]
+ },
+ {
+  "w": "network",
+  "p": "noun",
+  "d": "a connected system of people, things, or places",
+  "e": "The railway network covers the whole country.",
+  "s": [
+   "system",
+   "web"
+  ]
+ },
+ {
+  "w": "neutral",
+  "p": "adjective",
+  "d": "not supporting any side",
+  "e": "The judge must remain neutral.",
+  "s": [
+   "impartial",
+   "unbiased"
+  ]
+ },
+ {
+  "w": "nevertheless",
+  "p": "adverb",
+  "d": "in spite of that",
+  "e": "The test was hard; nevertheless, most students passed.",
+  "s": [
+   "however",
+   "nonetheless"
+  ]
+ },
+ {
+  "w": "nonetheless",
+  "p": "adverb",
+  "d": "despite what was just said",
+  "e": "The road was icy; we arrived on time nonetheless.",
+  "s": [
+   "nevertheless",
+   "still"
+  ]
+ },
+ {
+  "w": "norm",
+  "p": "noun",
+  "d": "a usual or accepted way of doing things",
+  "e": "Wearing uniforms is the norm in many schools.",
+  "s": [
+   "standard",
+   "custom"
+  ]
+ },
+ {
+  "w": "notion",
+  "p": "noun",
+  "d": "an idea or belief",
+  "e": "He rejected the notion that money brings happiness.",
+  "s": [
+   "idea",
+   "belief"
+  ]
+ },
+ {
+  "w": "notwithstanding",
+  "p": "preposition",
+  "d": "in spite of",
+  "e": "Notwithstanding the rain, the event went ahead.",
+  "s": [
+   "despite",
+   "regardless of"
+  ]
+ },
+ {
+  "w": "novel",
+  "p": "adjective",
+  "d": "new and different",
+  "e": "Scientists proposed a novel way to clean water.",
+  "s": [
+   "new",
+   "original"
+  ]
+ },
+ {
+  "w": "nuance",
+  "p": "noun",
+  "d": "a small difference in meaning or feeling",
+  "e": "She understood every nuance of the poem.",
+  "s": [
+   "subtlety",
+   "shade"
+  ]
+ },
+ {
+  "w": "objective",
+  "p": "adjective",
+  "d": "based on facts, not personal feelings",
+  "e": "A good report should be objective.",
+  "s": [
+   "impartial",
+   "unbiased"
+  ]
+ },
+ {
+  "w": "obligation",
+  "p": "noun",
+  "d": "something you must do because of a rule or promise",
+  "e": "Voting is a civic obligation.",
+  "s": [
+   "duty",
+   "responsibility"
+  ]
+ },
+ {
+  "w": "oblige",
+  "p": "verb",
+  "d": "to force or require someone to do something",
+  "e": "The law obliges drivers to wear seat belts.",
+  "s": [
+   "require",
+   "compel"
+  ]
+ },
+ {
+  "w": "obscure",
+  "p": "adjective",
+  "d": "not well known or not clear",
+  "e": "The poem has an obscure meaning.",
+  "s": [
+   "unclear",
+   "little known"
+  ]
+ },
+ {
+  "w": "observe",
+  "p": "verb",
+  "d": "to watch carefully, or to follow a rule",
+  "e": "Students observed the stars through a telescope.",
+  "s": [
+   "watch",
+   "notice"
+  ]
+ },
+ {
+  "w": "obstacle",
+  "p": "noun",
+  "d": "something that blocks progress",
+  "e": "Lack of money was the main obstacle.",
+  "s": [
+   "barrier",
+   "hurdle"
+  ]
+ },
+ {
+  "w": "obtain",
+  "p": "verb",
+  "d": "to get something",
+  "e": "You can obtain a library card for free.",
+  "s": [
+   "get",
+   "acquire"
+  ]
+ },
+ {
+  "w": "obvious",
+  "p": "adjective",
+  "d": "easy to see or understand",
+  "e": "It was obvious that he was nervous.",
+  "s": [
+   "clear",
+   "plain"
+  ]
+ },
+ {
+  "w": "occupy",
+  "p": "verb",
+  "d": "to fill or take up a place or time",
+  "e": "The meeting occupied most of the morning.",
+  "s": [
+   "fill",
+   "take up"
+  ]
+ },
+ {
+  "w": "occur",
+  "p": "verb",
+  "d": "to happen",
+  "e": "Earthquakes occur along fault lines.",
+  "s": [
+   "happen",
+   "take place"
+  ]
+ },
+ {
+  "w": "offset",
+  "p": "verb",
+  "d": "to balance something so its effect is reduced",
+  "e": "Higher sales offset the cost of repairs.",
+  "s": [
+   "balance",
+   "counter"
+  ]
+ },
+ {
+  "w": "on the fence",
+  "p": "idiom",
+  "d": "not yet decided",
+  "e": "I'm still on the fence about joining the club.",
+  "s": [
+   "undecided",
+   "unsure"
+  ]
+ },
+ {
+  "w": "on the same page",
+  "p": "idiom",
+  "d": "having the same understanding",
+  "e": "Let's make sure we are on the same page about the deadline.",
+  "s": [
+   "in agreement",
+   "aligned"
+  ]
+ },
+ {
+  "w": "ongoing",
+  "p": "adjective",
+  "d": "still continuing",
+  "e": "There is an ongoing study of ocean currents.",
+  "s": [
+   "continuing",
+   "current"
+  ]
+ },
+ {
+  "w": "option",
+  "p": "noun",
+  "d": "a choice that you can make",
+  "e": "You have the option of taking the exam online.",
+  "s": [
+   "choice",
+   "alternative"
+  ]
+ },
+ {
+  "w": "orient",
+  "p": "verb",
+  "d": "to adjust to a new situation or direction",
+  "e": "A guide helped us orient ourselves in the new city.",
+  "s": [
+   "adjust",
+   "direct"
+  ]
+ },
+ {
+  "w": "outcome",
+  "p": "noun",
+  "d": "the final result",
+  "e": "The outcome of the election surprised many.",
+  "s": [
+   "result",
+   "consequence"
+  ]
+ },
+ {
+  "w": "overlap",
+  "p": "verb",
+  "d": "to cover part of the same area or time",
+  "e": "The two courses overlap in some topics.",
+  "s": [
+   "coincide",
+   "cross over"
+  ]
+ },
+ {
+  "w": "overseas",
+  "p": "adverb",
+  "d": "in or to another country across the sea",
+  "e": "Many students study overseas.",
+  "s": [
+   "abroad",
+   "internationally"
+  ]
+ }
+]
