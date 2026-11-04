@@ -20,12 +20,16 @@
 - "Limited ad serving" until the Play listing is live. After launch: AdMob → Apps → this app → Add store (com.homilabs.toefl_prep).
 - Privacy & messaging: European regulations message "Prep Simulator for TOEFL consent" published 4 Nov 2026 for this app (Consent / Do not consent / Manage options, privacy URL https://tofel.homilabs.org/privacy.html). The app runs Google UMP before the SDK.
 
+## Store screenshots
+- 8 phone screenshots in `store-assets/screenshots/` (4 Nov 2026): home, mock overview, Reading, Listening, results, an explained practice answer, Speaking while recording, a lesson.
+- Drawn by `flutter test test_screenshots` (the real app, Roboto and Material Icons fonts, 1080 × 2400, no ads or status bar); then save `test_screenshots/shots/*.png` as RGB into `store-assets/screenshots/`. Re-run after UI changes.
+
 ## Play Console
 | Item | Value |
 |---|---|
 | App icon 512×512 | `store-assets/icon-512.png` |
 | Feature graphic | `store-assets/feature-graphic.png` |
-| Phone screenshots | `store-assets/screenshots/` |
+| Phone screenshots | `store-assets/screenshots/` (8 × 1080×2400, upload in file order) |
 | Privacy policy URL | https://tofel.homilabs.org/privacy.html |
 | Website | https://tofel.homilabs.org |
 | Contact email | homilabs.smc@gmail.com |
@@ -74,6 +78,5 @@ Prep Simulator for TOEFL is independent practice material by HomiLabs. TOEFL® a
 
 ## Before production (open items)
 - Test Speaking (recording, playback, rating) and a full mock on a real phone.
-- Phone screenshots (2-8) for the listing.
 - Homi reviews the content flags in `docs/review-flags.md` and spot-checks mocks, listening voices and speaking flow on a real phone.
 - Listening uses the phone's text-to-speech voice; recorded human or homidev Kokoro voices would be an upgrade (homidev workflow, Homi approves each clip).

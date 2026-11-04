@@ -51,3 +51,4 @@ scripts/backup.log
 __pycache__/
 releases/
 scripts/backup.log
+test_screenshots/shots/
