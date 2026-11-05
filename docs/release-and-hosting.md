@@ -26,7 +26,7 @@
 
 ## Play Console
 - App created 5 Nov 2026: app id 4972684226046600731 (org account homilabs.smc@gmail.com). All App content declared (content rating via IARC questionnaire), default en-US listing with icon, feature graphic and 8 screenshots, category Education.
-- Production release 1.0.0 (1), 178 countries, saved to Publishing overview 5 Nov 2026 ("Ready to release", 12.4 MB); Homi clicks "Send for review".
+- Production release 1.0.0 (1), 178 countries, saved to Publishing overview 5 Nov 2026 ("Ready to release", 12.4 MB); Homi sent it for review 5 Nov 2026 (managed publishing off: it goes live when approved).
 
 | Item | Value |
 |---|---|
