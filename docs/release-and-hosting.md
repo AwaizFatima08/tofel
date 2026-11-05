@@ -25,6 +25,9 @@
 - Drawn by `flutter test test_screenshots` (the real app, Roboto and Material Icons fonts, 1080 × 2400, no ads or status bar); then save `test_screenshots/shots/*.png` as RGB into `store-assets/screenshots/`. Re-run after UI changes.
 
 ## Play Console
+- App created 5 Nov 2026: app id 4972684226046600731 (org account homilabs.smc@gmail.com). All App content declared (content rating via IARC questionnaire), default en-US listing with icon, feature graphic and 8 screenshots, category Education.
+- Production release 1.0.0 (1), 178 countries, saved to Publishing overview 5 Nov 2026 ("Ready to release", 12.4 MB); Homi clicks "Send for review".
+
 | Item | Value |
 |---|---|
 | App icon 512×512 | `store-assets/icon-512.png` |
