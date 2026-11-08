@@ -17,7 +17,7 @@
 
 ## AdMob (account homilabs.smc@gmail.com)
 - Created 4 Nov 2026: app "Prep Simulator for TOEFL", App ID `ca-app-pub-2087846699268567~6422141298`; units banner `toefl_home_banner` and interstitial `toefl_results_interstitial` (ids in `config/admob.json`). Debug builds use Google test units.
-- "Limited ad serving" until the Play listing is live. After launch: AdMob → Apps → this app → Add store (com.homilabs.toefl_prep).
+- Live on Google Play (approved by 9 Nov 2026). Play store linked to the AdMob app 9 Nov 2026 and verified; AdMob's app review (usually 2-3 days) then lifts limited ad serving.
 - Privacy & messaging: European regulations message "Prep Simulator for TOEFL consent" published 4 Nov 2026 for this app (Consent / Do not consent / Manage options, privacy URL https://tofel.homilabs.org/privacy.html). The app runs Google UMP before the SDK.
 
 ## Store screenshots
