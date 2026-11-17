@@ -13,7 +13,7 @@
 - `public_html/tofel` is a git checkout of this repo's `deploy` branch (cloned over SSH, as for gre and nts; hPanel's one Git slot for homilabs.org belongs to the games site).
 - Change `website/`, commit, then `bash scripts/publish-site.sh` (pushes `deploy`, then pulls it on the server over SSH). Flush the CDN cache in hPanel if pages look stale.
 - Pages: landing, `/privacy.html`, `/terms.html`, `/app-ads.txt`.
-- After Play launch: replace "Coming soon on Google Play" with the Play link, and add the app to homilabs.org.
+- 17 Nov 2026: "Get it on Google Play" button live (https://play.google.com/store/apps/details?id=com.homilabs.toefl_prep). Still to do: add the app to homilabs.org.
 
 ## AdMob (account homilabs.smc@gmail.com)
 - Created 4 Nov 2026: app "Prep Simulator for TOEFL", App ID `ca-app-pub-2087846699268567~6422141298`; units banner `toefl_home_banner` and interstitial `toefl_results_interstitial` (ids in `config/admob.json`). Debug builds use Google test units.
