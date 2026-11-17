@@ -14,7 +14,8 @@ a{color:inherit}
 .hero{background:var(--navy);color:#fff;padding:56px 0 64px}
 .hero h1{font-size:clamp(2rem,6vw,3.2rem);line-height:1.15;margin:0 0 12px}
 .lead{font-size:1.2rem;max-width:40em;margin:0 0 20px}
-.soon{display:inline-block;background:var(--amber);color:#2a1c00;font-weight:700;padding:10px 18px;border-radius:999px}
+.play{display:inline-block;background:var(--amber);color:#2a1c00;font-weight:700;padding:10px 18px;border-radius:999px;text-decoration:none}
+.play:hover{filter:brightness(1.08)}
 section.wrap{padding-block:36px}
 h2{font-size:1.6rem;line-height:1.25;margin:0 0 16px}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
