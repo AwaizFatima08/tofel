@@ -7,6 +7,7 @@ import 'package:toefl_prep/content/content_repository.dart';
 import 'package:toefl_prep/content/models.dart';
 import 'package:toefl_prep/core/clock.dart';
 import 'package:toefl_prep/core/result.dart';
+import 'package:toefl_prep/core/review_prompt.dart';
 import 'package:toefl_prep/core/scoring.dart';
 import 'package:toefl_prep/settings/settings_repository.dart';
 
@@ -228,6 +229,7 @@ class ExamNotifier extends AsyncNotifier<ExamState> {
     await _persist(next);
     await ref.read(practiceTallyProvider.notifier).recordAll(result.topics);
     state = AsyncData(current.withAttempt(next));
+    unawaited(ref.read(reviewPrompterProvider).mockFinished());
   }
 }
 

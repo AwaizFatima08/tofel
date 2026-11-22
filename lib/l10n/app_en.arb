@@ -474,11 +474,13 @@
       }
     }
   },
-  "version": "Version 1.0.0",
+  "version": "Version 1.0.1",
   "website": "Website",
   "privacy": "Privacy policy",
   "privacyChoices": "Privacy choices (ads)",
   "terms": "Terms of use",
   "contact": "Contact: homilabs.smc@gmail.com",
+  "rateApp": "Rate this app on Google Play",
+  "moreFromHomiLabs": "More from HomiLabs",
   "aboutBody": "Prep Simulator for TOEFL is an independent practice app by HomiLabs. TOEFL® and TOEFL iBT® are registered trademarks of ETS. This app is not endorsed or approved by ETS and is not affiliated with it. All texts, recordings, questions, prompts, lessons and explanations are original practice material written for this app, not real test questions, and scores are practice estimates only. Listening recordings are spoken by your phone's text-to-speech voice. Your answers and voice recordings stay on your phone."
 }

@@ -1271,7 +1271,7 @@ abstract class AppLocalizations {
   /// No description provided for @version.
   ///
   /// In en, this message translates to:
-  /// **'Version 1.0.0'**
+  /// **'Version 1.0.1'**
   String get version;
 
   /// No description provided for @website.
@@ -1303,6 +1303,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Contact: homilabs.smc@gmail.com'**
   String get contact;
+
+  /// No description provided for @rateApp.
+  ///
+  /// In en, this message translates to:
+  /// **'Rate this app on Google Play'**
+  String get rateApp;
+
+  /// No description provided for @moreFromHomiLabs.
+  ///
+  /// In en, this message translates to:
+  /// **'More from HomiLabs'**
+  String get moreFromHomiLabs;
 
   /// No description provided for @aboutBody.
   ///

@@ -729,7 +729,7 @@ class AppLocalizationsEn extends AppLocalizations {
   }
 
   @override
-  String get version => 'Version 1.0.0';
+  String get version => 'Version 1.0.1';
 
   @override
   String get website => 'Website';
@@ -745,6 +745,12 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get contact => 'Contact: homilabs.smc@gmail.com';
+
+  @override
+  String get rateApp => 'Rate this app on Google Play';
+
+  @override
+  String get moreFromHomiLabs => 'More from HomiLabs';
 
   @override
   String get aboutBody =>
